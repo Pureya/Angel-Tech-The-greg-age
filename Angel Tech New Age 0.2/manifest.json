@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Angel Tech New Age",
-  "version": "0.2c",
+  "version": "0.2d",
   "author": "GreddodeRichards",
   "files": [
     {
@@ -307,11 +307,6 @@
     {
       "projectID": 458048,
       "fileID": 5220103,
-      "required": true
-    },
-    {
-      "projectID": 832882,
-      "fileID": 5392622,
       "required": true
     },
     {
@@ -737,11 +732,6 @@
     {
       "projectID": 628539,
       "fileID": 5505862,
-      "required": true
-    },
-    {
-      "projectID": 840873,
-      "fileID": 5062640,
       "required": true
     },
     {
