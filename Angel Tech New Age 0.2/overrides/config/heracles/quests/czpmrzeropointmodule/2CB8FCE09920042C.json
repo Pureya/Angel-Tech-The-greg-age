@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "546CC03435E763CF"
+  ],
+  "tasks": {
+    "0933A476B9F87E66": {
+      "type": "heracles:item",
+      "item": "gtceu:duranium_ingot"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Duranium",
+    "description": [
+      "<h2>Who needs Stargate, anyway?</h2>",
+      "<hr/>",
+      "<task task=\"0933A476B9F87E66\" quest=\"2CB8FCE09920042C\"/>",
+      "<hr/>",
+      "&&aDuranium&&r is a material from Star Trek, and is used for a few things in GT. It makes some pretty awesome pipes, but otherwise you won't need much of this quite yet.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o In some versions of GT5u, this material was entirely white. In fact, most fusion materials and later were like this. Boring!"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:duranium_ingot"
+    },
+    "subtitle": {
+      "text": "Who needs Stargate, anyway?"
+    },
+    "groups": {
+      "§cZPM§r - Zero Point Module": {
+        "position": [
+          -12,
+          144
+        ]
+      }
+    }
+  }
+}

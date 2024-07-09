@@ -1,0 +1,65 @@
+{
+  "dependencies": [
+    "0EAF2C5B5EB755C5"
+  ],
+  "tasks": {
+    "3DF01E4FACBB1D53": {
+      "type": "heracles:item",
+      "item": "#minecraft:logs",
+      "amount": 48,
+      "collection": "AUTOMATIC",
+      "title": "We demand more logs."
+    }
+  },
+  "rewards": {
+    "5408859E43668198": {
+      "item": {
+        "id": "minecraft:coal",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Not here!"
+    },
+    "description": [
+      "<h2>Not here!</h2>",
+      "<hr/>",
+      "<task task=\"3DF01E4FACBB1D53\" quest=\"36DD94945D5B4A80\"/>",
+      "<hr/>",
+      "Okay, we were generous enough to leave Wood-to-Plank-ratios &&cuntouched&&r, but this is GregTech - charcoal smelting is &&4&&lnot possible&&r in a Furnace. You'll need to make a &&d&&lCoke Oven&&r to get your grubby hands on some &&6charcoal&&r.",
+      "<br/>",
+      "Wooden planks are still pretty good as &&6furnace fuel&&r, especially since you get &&l&&3four&&r from one log.",
+      "<reward reward=\"5408859E43668198\" quest=\"36DD94945D5B4A80\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          24,
+          -48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:charcoal",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Charcoal?"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

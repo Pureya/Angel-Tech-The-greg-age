@@ -1,0 +1,52 @@
+{
+  "settings": {},
+  "dependencies": [
+    "7FA0ACB7F161F378"
+  ],
+  "tasks": {
+    "0BC7D23CA52A619D": {
+      "type": "heracles:item",
+      "amount": 64,
+      "item": "gtceu:rare_earth_dust"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Rare Earth",
+    "description": [
+      "<h2>It's got \"rare\" in the name... oh no.</h2>",
+      "<hr/>",
+      "<task task=\"0BC7D23CA52A619D\" quest=\"300348B1238BCB9A\"/>",
+      "<hr/>",
+      "If you already made and centrifuged &&aRare Earth&&r, that's great! If you haven't, you can obtain it as a &&9Byproduct&&r from various ores, or from centrifuging &&dMonazite&&r.",
+      "<br/>",
+      "To extract the &&aRare Earths&&r&&r, you should use a &&3Centrifuge&&r &&4as high a tier as possible&&r, due to the increased chance of bonus outputs.",
+      "{@pagebreak}",
+      "The elements you can obtain are:",
+      "<br/>",
+      "&&9-&&r &&aLanthanum&&r is used in &&3Fusion&&r&&r - you will eventually want a lot of it!",
+      "&&9-&&r &&aYttrium&&r is used in &&dYttrium-Barium-Cuprate-Oxide&&r (YBCO), a wire material for &&3UV&&r.",
+      "&&9-&&r &&aCerium&&r is not particularly useful.",
+      "&&9-&&r &&aSamarium&&r is used for &&dIV Superconductors&&r and &&dMagnetic Rods&&r for &&dLuV&&r+ Motors.",
+      "&&9-&&r &&aNeodymium&&r normally makes the strongest magnets, but gameplay balance... y'know.",
+      "&&9-&&r &&aCadmium&&r is not particularly useful.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o Rare Earth Elements (REE) contain a lot more metals than these, but we're struggling as is to give them use."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:rare_earth_dust"
+    },
+    "subtitle": {
+      "text": "It's got \"rare\" in the name... oh no."
+    },
+    "groups": {
+      "§9IV§r - Insane Voltage": {
+        "position": [
+          -60,
+          48
+        ]
+      }
+    }
+  }
+}

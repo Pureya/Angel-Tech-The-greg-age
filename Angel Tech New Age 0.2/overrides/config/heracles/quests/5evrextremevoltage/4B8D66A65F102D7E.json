@@ -1,0 +1,59 @@
+{
+  "settings": {},
+  "dependencies": [
+    "2D01E80DE837F6A6",
+    "7FA0ACB7F161F378"
+  ],
+  "tasks": {
+    "4BCA4F8ED0041BF6": {
+      "title": "Any of these diodes",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:hv_diode"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_diode"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iv_diode"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Diode",
+    "description": [
+      "<task task=\"4BCA4F8ED0041BF6\" quest=\"4B8D66A65F102D7E\"/>",
+      "<hr/>",
+      "The &&3Diode&&r (the block, not the component) accepts energy inputs from 5 sides, but only outputs through a single side.",
+      "<br/>",
+      "Its main purpose is to &&dlimit Amperage&&r. It can be useful when regulating centralised Power generation, so you can distribute your power everywhere without having to math out what cable size is safe depending on consumers...",
+      "<br/>",
+      "They can also be used as an electric equivalent to Repeaters when the voltage loss from Cables (or GTEU P2P tunnels - more on that later!) gets too high.",
+      "<br/>",
+      "You can use a &&5Soft Hammer&&r to change the Amperage limit of the output.",
+      "<br/>",
+      "&&eAny&&r of the listed Diodes will complete this Quest."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:ev_diode"
+    },
+    "groups": {
+      "§5EV§r - Extreme Voltage": {
+        "position": [
+          72,
+          180
+        ]
+      }
+    }
+  }
+}

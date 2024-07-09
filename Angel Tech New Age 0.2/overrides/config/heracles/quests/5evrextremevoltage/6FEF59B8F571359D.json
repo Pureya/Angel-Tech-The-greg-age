@@ -1,0 +1,55 @@
+{
+  "settings": {},
+  "dependencies": [
+    "3B2D2C47BEBCFFA7"
+  ],
+  "tasks": {
+    "35CAC76B502E12FF": {
+      "title": "Arc Furnace",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:ev_arc_furnace"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iv_arc_furnace"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Getting Rid of Those Old Machines",
+    "description": [
+      "<h2>I never liked them anyway...</h2>",
+      "<hr/>",
+      "<task task=\"35CAC76B502E12FF\" quest=\"6FEF59B8F571359D\"/>",
+      "<hr/>",
+      "You probably have some old machines lying around, right?",
+      "<br/>",
+      "You most likely know by now that Arc Furnaces can recycle machines, but by &&5EV&&r, they upgrade to &&a9 slots&&r!",
+      "<br/>",
+      "&&eNote&&r: This quest accepts either an &&5EV&&r or &&9IV&&r Arc Furnace. You don't have to make both."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:iv_arc_furnace"
+    },
+    "subtitle": {
+      "text": "I never liked them anyway..."
+    },
+    "groups": {
+      "§5EV§r - Extreme Voltage": {
+        "position": [
+          255,
+          180
+        ]
+      }
+    }
+  }
+}

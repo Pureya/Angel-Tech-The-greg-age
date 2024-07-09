@@ -1,0 +1,41 @@
+{
+  "settings": {},
+  "dependencies": [
+    "29379C91D6E00436",
+    "3E6DC423FE4A99F7"
+  ],
+  "tasks": {
+    "14E4C5F6C88F5358": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_item_magnet"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Magnet",
+    "description": [
+      "<h2>Why can't these items I mine behave and enter my inventory!?</h2>",
+      "<hr/>",
+      "<task task=\"14E4C5F6C88F5358\" quest=\"3ECD9C9B909CCCCC\"/>",
+      "<hr/>",
+      "&&dSneak right-click&&r when in hand to activate your Magnet. Do it again to deactivate. The battery capacity of your magnet depends on the battery used to craft it.",
+      "<br/>",
+      "&&9Note:&&r If you're worried about getting overwhelmed by Cobblestone or Netherrack, use the trash can from FTB Utilities (top left corner of your inventory) to void them."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_item_magnet"
+    },
+    "subtitle": {
+      "text": "Why can't these items I mine behave and enter my inventory!?"
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          180,
+          74
+        ]
+      }
+    }
+  }
+}

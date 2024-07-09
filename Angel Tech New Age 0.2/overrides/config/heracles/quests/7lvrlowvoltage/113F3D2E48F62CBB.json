@@ -1,0 +1,79 @@
+{
+  "settings": {},
+  "dependencies": [
+    "46AD7A6F3B6775F5"
+  ],
+  "tasks": {
+    "5924F0A33AD22EC9": {
+      "title": "World Accelerators",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:lv_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:mv_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:hv_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iv_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:luv_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:zpm_world_accelerator"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:uv_world_accelerator"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "At The Speed Of Light",
+    "description": [
+      "<h2>I Have Become Chronos</h2>",
+      "<hr/>",
+      "<task task=\"5924F0A33AD22EC9\" quest=\"113F3D2E48F62CBB\"/>",
+      "<hr/>",
+      "&&o&&7This quest's subject is optional, but may still be of interest to you. We've put it here in the name of completeness.&&r",
+      "<br/>",
+      "The &&3World Accelerator&&r... well, accelerates the world. Placing it down and powering it will cause it to tick-accelerate any Tile Entities around it. Using a Screwdriver, you can also toggle it to tick-accelerate random blocks in its area, such as farmland. ",
+      "<br/>",
+      "Keep in mind that GregTech machines are blacklisted from tick acceleration - this is for the better, as tick-accelerating a GregTech machine can lead to it consuming many Amps at once and nuking your power system."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_world_accelerator"
+    },
+    "subtitle": {
+      "text": "I Have Become Chronos"
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          252,
+          36
+        ]
+      }
+    }
+  }
+}

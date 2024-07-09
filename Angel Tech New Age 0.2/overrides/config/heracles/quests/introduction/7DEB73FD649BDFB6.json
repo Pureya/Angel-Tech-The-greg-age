@@ -1,0 +1,87 @@
+{
+  "dependencies": [
+    "1ECBA1CBFFB9F625"
+  ],
+  "tasks": {
+    "1A4DDB914D7D2F3C": {
+      "type": "heracles:item",
+      "item": "#forge:tools/hammers",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Any Hammer!",
+      "icon": {
+        "item": {
+          "id": "gtceu:steel_hammer",
+          "count": 1,
+          "nbt": {
+            "GT.Tool": {
+              "Damage": 0
+            }
+          }
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "6C50A2A3D43D3FEE": {
+      "item": {
+        "id": "gtceu:iron_plate",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Your first GT Tool!"
+    },
+    "description": [
+      "<h2>Your first GT Tool!</h2>",
+      "<hr/>",
+      "<task task=\"1A4DDB914D7D2F3C\" quest=\"7DEB73FD649BDFB6\"/>",
+      "<hr/>",
+      "Alright - your first &&oproper&&r &&aGregTech&&r tool. The first of &&dmany&&r.",
+      "<br/>",
+      "GT tools can be made out of many different materials. When used in crafting recipes, they &&baren't consumed&&r, instead losing durability. You'll want to start with an Iron tool - but you could opt for Wrought Iron if you already tackled that quest.",
+      "<br/>",
+      "&&9&&lHammer&&f:&&r A crafting tool that shows up in a lot of earlygame recipes. Its secondary function is muting machines by &&msmacking&&r right-clicking them.",
+      "<br/>",
+      "As a sidenote on all &&aGregTech&&r tools, you can repair them in an Anvil using the material of the tool itself, just like any vanilla tool. If you are finding yourself short on experience, &&eBottles o' Enchanting&&r are now craftable.",
+      "<hr/>",
+      "<reward reward=\"6C50A2A3D43D3FEE\" quest=\"7DEB73FD649BDFB6\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          72,
+          -96
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:steel_hammer",
+        "count": 1,
+        "nbt": {
+          "GT.Tool": {
+            "Damage": 0
+          }
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "STOP! Hammer time!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

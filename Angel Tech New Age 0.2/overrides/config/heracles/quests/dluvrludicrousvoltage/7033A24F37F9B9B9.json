@@ -1,0 +1,39 @@
+{
+  "settings": {},
+  "dependencies": [
+    "77B7B1EDD19831E0",
+    "7CFC112B8F460549"
+  ],
+  "tasks": {
+    "718BA09242A22550": {
+      "type": "heracles:item",
+      "item": "gtceu:prospector.luv"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "LuV Prospector",
+    "description": [
+      "<h2>If you're yet to strike gold, you will now</h2>",
+      "<hr/>",
+      "<task task=\"718BA09242A22550\" quest=\"7033A24F37F9B9B9\"/>",
+      "<hr/>",
+      "The &&aLuV Electric Prospector&&r is a major upgrade from the &&eHV&&r one. With its huge range, it'll make finding Fluid and Ore veins very easy."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:prospector.luv"
+    },
+    "subtitle": {
+      "text": "If you're yet to strike gold, you will now"
+    },
+    "groups": {
+      "§dLuV§r - Ludicrous Voltage": {
+        "position": [
+          144,
+          108
+        ]
+      }
+    }
+  }
+}

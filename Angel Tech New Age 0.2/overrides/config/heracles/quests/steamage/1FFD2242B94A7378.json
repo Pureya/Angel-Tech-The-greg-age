@@ -1,0 +1,73 @@
+{
+  "settings": {},
+  "dependencies": [
+    "5DD49D500327A0E2"
+  ],
+  "tasks": {
+    "006E5756DD2CFB97": {
+      "title": "Bronze Fluid Pipe",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:bronze_small_fluid_pipe"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:bronze_normal_fluid_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "66E3F49541CA77B9": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:golden_apple",
+        "count": 2
+      }
+    }
+  },
+  "display": {
+    "title": "Fluid Pipes",
+    "description": [
+      "<h2>Liquids, gases... we don't discriminate</h2>",
+      "<hr/>",
+      "<task task=\"006E5756DD2CFB97\" quest=\"1FFD2242B94A7378\"/>",
+      "<hr/>",
+      "&&bFluid Pipes&&r will transport &&7Steam&&r between machines for you.",
+      "<br/>",
+      "Each Pipe has a certain throughput in mB/t, and a &&6Temperature Limit&&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &&bspecial&&r attributes you don't need to worry about for now.",
+      "<br/>",
+      "Each material has several sizes for Pipes. The bigger the Pipe, the &&ahigher&&r the throughput, but the more &&dexpensive&&r the craft. For example, a normal &&6Bronze Fluid Pipe&&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)",
+      "<br/>",
+      "Get either a Small or Normal &&6Bronze Fluid Pipe&&r to complete this quest. Both are used in crafting.",
+      "{@pagebreak}",
+      "&&aReminder:&&r 1 second = 20 ticks... assuming the server isn't lagging.",
+      "<br/>",
+      "&&dNote:&&r GT6-style Pipes are enabled. It means that placing Pipes connects them only to the block they were placed against. To open more connections, use your Wrench on the pipe.",
+      "<br/>",
+      "You can also shift-right click with your Wrench to disable input from a side. This can help counteract sloshing (liquids travelling in an undesired direction).",
+      "<hr/>",
+      "<reward reward=\"66E3F49541CA77B9\" quest=\"1FFD2242B94A7378\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:bronze_normal_fluid_pipe"
+    },
+    "subtitle": {
+      "text": "Liquids, gases... we don't discriminate"
+    },
+    "groups": {
+      "Steam Age": {
+        "position": [
+          -36,
+          24
+        ]
+      }
+    }
+  }
+}

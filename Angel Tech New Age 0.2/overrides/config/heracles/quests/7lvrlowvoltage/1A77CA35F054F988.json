@@ -1,0 +1,51 @@
+{
+  "settings": {},
+  "dependencies": [
+    "5263F866638D875C",
+    "32B08E6F414A00C0"
+  ],
+  "tasks": {
+    "1F76ED94CDBD13E1": {
+      "type": "heracles:item",
+      "item": "gtceu:oxygen_bucket"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Breath of Fresh Oxygen",
+    "description": [
+      "<h2>Achtually, it's Dioxygen...</h2>",
+      "<hr/>",
+      "<task task=\"1F76ED94CDBD13E1\" quest=\"1A77CA35F054F988\"/>",
+      "<hr/>",
+      "You could waste &&o&&eprecious years of your life&&r in JEI looking for the most optimal Oxygen recipe, given the many ways to obtain it. Various minerals will produce it when electrolyzed.",
+      "<br/>",
+      "If only the quest book had more information!",
+      "{@pagebreak}",
+      "Surprise! The best source according to us (!) is &&acentrifuging Air&&r after making a &&dGas Collector&&r, which you might not be able to make just yet. This recipe also gives &&aNitrogen&&r, which is handy as it can speed up certain &&3Electric Blast Furnace&&r recipes&&r.",
+      "<br/>",
+      "The second best source according to us (!) is &&aelectrolyzing Silicon Dioxide&&r. Silicon Dioxide is obtained from various sources, such as Glass Dust, Granite Dust and Black Granite Dust.",
+      "{@pagebreak}",
+      "The third best source according to us (!) is &&aelectrolyzing Water&&r. In reality, electrolysis of water is more suitable for &&aHydrogen production&&r due to the higher energy cost.",
+      "<br/>",
+      "The fourth best source according to us (!) is &&ato not void&&r it, EVER! Any Oxygen obtained from any source is worth something and should be stored in Tanks.",
+      "<br/>",
+      "&&eNote:&&r Submit a fluid by having it stored in a &&lbucket&&r in your inventory. Sorry - it's an FTB Quests quirk."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:oxygen_bucket"
+    },
+    "subtitle": {
+      "text": "Achtually, it's Dioxygen..."
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          -36,
+          252
+        ]
+      }
+    }
+  }
+}

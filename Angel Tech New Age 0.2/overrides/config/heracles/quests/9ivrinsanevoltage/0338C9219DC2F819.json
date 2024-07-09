@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "117FBB18DEE6F08B"
+  ],
+  "tasks": {
+    "7092FDCCDDC53679": {
+      "type": "heracles:item",
+      "item": "gtceu:reinforced_epoxy_resin_plate"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Fiber-Reinforced Epoxy",
+    "description": [
+      "<h2>The biggest upgrade you've ever seen</h2>",
+      "<hr/>",
+      "<task task=\"7092FDCCDDC53679\" quest=\"0338C9219DC2F819\"/>",
+      "<hr/>",
+      "The next board material.",
+      "<br/>",
+      "It's as easy as using some &&aEpoxy&&r in the &&3Chemical Bath&&r."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:reinforced_epoxy_resin_plate"
+    },
+    "subtitle": {
+      "text": "The biggest upgrade you've ever seen"
+    },
+    "groups": {
+      "§9IV§r - Insane Voltage": {
+        "position": [
+          228,
+          120
+        ]
+      }
+    }
+  }
+}

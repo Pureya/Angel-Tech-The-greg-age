@@ -1,0 +1,52 @@
+{
+  "settings": {},
+  "dependencies": [
+    "682C26579EDDCA76"
+  ],
+  "tasks": {
+    "132FA856BB60C546": {
+      "type": "heracles:item",
+      "item": "travelanchors:travel_staff"
+    }
+  },
+  "rewards": {
+    "45B4F45CE10CD806": {
+      "type": "heracles:item",
+      "item": {
+        "id": "travelanchors:travel_anchor",
+        "count": 3
+      }
+    }
+  },
+  "display": {
+    "title": "Travel Anchors",
+    "description": [
+      "<h2>pshhh... nothin personnel... kid</h2>",
+      "<hr/>",
+      "<task task=\"132FA856BB60C546\" quest=\"350E8A014DD8C838\"/>",
+      "<hr/>",
+      "Tired of running around your base yet? &&3Travel Anchors&&r make their introduction in the latest update!",
+      "<br/>",
+      "Aim the &&aTravel Staff&&r at a placed Anchor, then &&6sneak-right-click&&r to teleport on top. You can &&bcustomise the appearance&&r of a Travel Anchor by right-clicking it with a block in your off-hand, and you can &&9rename&&r Anchors in their GUI. The effective tool for breaking them is the &&bWrench&&r.",
+      "<br/>",
+      "The &&dEnder Pearls&&r necessary to craft more Anchors won't be available yet - take a small handful of Anchors to make life a &&olittle&&r easier.",
+      "<hr/>",
+      "<reward reward=\"45B4F45CE10CD806\" quest=\"350E8A014DD8C838\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "travelanchors:travel_anchor"
+    },
+    "subtitle": {
+      "text": "pshhh... nothin personnel... kid"
+    },
+    "groups": {
+      "§bMV§r - Medium Voltage": {
+        "position": [
+          36,
+          120
+        ]
+      }
+    }
+  }
+}

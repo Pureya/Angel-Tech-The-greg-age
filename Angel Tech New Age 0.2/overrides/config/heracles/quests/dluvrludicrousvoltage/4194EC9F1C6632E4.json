@@ -1,0 +1,46 @@
+{
+  "settings": {},
+  "dependencies": [
+    "78277DBC07D3C45C",
+    "2DAC91AF2EBB68E2",
+    "1783D89CE81C8E2E"
+  ],
+  "tasks": {
+    "356EC5387BA79103": {
+      "type": "heracles:item",
+      "item": "gtceu:luv_processing_array"
+    },
+    "3BB99A624A81A93E": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Advanced Processing Array",
+    "description": [
+      "<h2>Your blue cube would now have been green!</h2>",
+      "<hr/>",
+      "<task task=\"356EC5387BA79103\" quest=\"4194EC9F1C6632E4\"/>",
+      "<task task=\"3BB99A624A81A93E\" quest=\"4194EC9F1C6632E4\"/>",
+      "<hr/>",
+      "The &&aAdvanced Processing Array&&r was an upgrade to the regular version. It could handle a maximum of &&a64&&r machines, instead of 16.",
+      "<br/>",
+      "As with the Processing Array, this machine &&4won't be making it&&r into future versions of the mod. You can skip this quest with the checkmark."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:luv_processing_array"
+    },
+    "subtitle": {
+      "text": "Your blue cube would now have been green!"
+    },
+    "groups": {
+      "§dLuV§r - Ludicrous Voltage": {
+        "position": [
+          36,
+          0
+        ]
+      }
+    }
+  }
+}

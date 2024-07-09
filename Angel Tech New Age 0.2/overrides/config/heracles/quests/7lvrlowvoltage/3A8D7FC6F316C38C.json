@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "dependencies": [
+    "5263F866638D875C",
+    "2F1CCFEBAB71B1F3"
+  ],
+  "tasks": {
+    "662DB818821C4EAE": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_cutter"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Basic Cutter",
+    "description": [
+      "<h2>The Cutter... cuts...</h2>",
+      "<hr/>",
+      "<task task=\"662DB818821C4EAE\" quest=\"3A8D7FC6F316C38C\"/>",
+      "<hr/>",
+      "For now, you should use &&9Water&&r for its recipes instead of trying to acquire Lubricant.",
+      "<br/>",
+      "The &&3Cutting Machine&&r additionally unlocks converting &&6Rods into four Bolts&&r.",
+      "<br/>",
+      "This machine is the only way to obtain &&dGem Plates&&r, which are needed to craft Filters, and by extension, the &&3Gas Collector&&r."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_cutter"
+    },
+    "subtitle": {
+      "text": "The Cutter... cuts..."
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          -36,
+          216
+        ]
+      }
+    }
+  }
+}

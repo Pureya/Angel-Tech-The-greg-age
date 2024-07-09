@@ -1,0 +1,55 @@
+{
+  "settings": {},
+  "dependencies": [
+    "7CAD6FF241A827F7"
+  ],
+  "tasks": {
+    "29303BBBF186EA1B": {
+      "type": "heracles:item",
+      "item": "gtceu:raw_blue_topaz"
+    },
+    "73E7A603F86446FC": {
+      "type": "heracles:item",
+      "item": "gtceu:raw_topaz"
+    },
+    "74FEBF511ED054F7": {
+      "type": "heracles:item",
+      "item": "gtceu:raw_chalcocite"
+    },
+    "78BC31A5EA9316A0": {
+      "type": "heracles:item",
+      "item": "gtceu:raw_bornite"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Topaz",
+    "description": [
+      "<h2>Source of Copper, Fluorine</h2>",
+      "<hr/>",
+      "<task task=\"29303BBBF186EA1B\" quest=\"37EC97FB0FC6C56D\"/>",
+      "<task task=\"73E7A603F86446FC\" quest=\"37EC97FB0FC6C56D\"/>",
+      "<task task=\"74FEBF511ED054F7\" quest=\"37EC97FB0FC6C56D\"/>",
+      "<task task=\"78BC31A5EA9316A0\" quest=\"37EC97FB0FC6C56D\"/>",
+      "<hr/>",
+      "Both Topaz ores are excellent subjects for eventual electrolysis.",
+      "<br/>",
+      "This makes this vein one of the best Fluorine sources."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:netherrack_topaz_ore"
+    },
+    "subtitle": {
+      "text": "Source of Copper, Fluorine"
+    },
+    "groups": {
+      "Ore Generation": {
+        "position": [
+          336,
+          -32
+        ]
+      }
+    }
+  }
+}

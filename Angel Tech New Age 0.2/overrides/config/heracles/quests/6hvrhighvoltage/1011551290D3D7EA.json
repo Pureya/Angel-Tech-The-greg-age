@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "4024C831C77101CA"
+  ],
+  "tasks": {
+    "19CC2402A14AE77C": {
+      "type": "heracles:item",
+      "item": "javd:portal_block"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Void Dimension Portal",
+    "description": [
+      "<h2>Goodbye, cruel Overworld</h2>",
+      "<hr/>",
+      "<task task=\"19CC2402A14AE77C\" quest=\"1011551290D3D7EA\"/>",
+      "<hr/>",
+      "If you're looking for a change of scene, the &&5Void Dimension&&r is a perfectly empty area for you to build your factory.",
+      "<br/>",
+      "It wouldn't be unwise to procure some manner of &&aflight&&r before venturing here - maybe look around and see if this pack has &&6any options&&r."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "javd:portal_block"
+    },
+    "subtitle": {
+      "text": "Goodbye, cruel Overworld"
+    },
+    "groups": {
+      "§6HV§r - High Voltage": {
+        "position": [
+          288,
+          12
+        ]
+      }
+    }
+  }
+}

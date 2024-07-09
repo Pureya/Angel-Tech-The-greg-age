@@ -1,0 +1,77 @@
+{
+  "settings": {},
+  "dependencies": [
+    "0DBC148D92A9F69F"
+  ],
+  "tasks": {
+    "431D533510584687": {
+      "title": "Any of the listed Miners",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:lv_miner"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:mv_miner"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:hv_miner"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "2C877DA425BBFC5D": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:wooden_pickaxe",
+        "count": 1,
+        "nbt": {
+          "Damage": 58
+        }
+      }
+    }
+  },
+  "display": {
+    "title": "Digital Miner",
+    "description": [
+      "<task task=\"431D533510584687\" quest=\"5C94CF50090D7DA0\"/>",
+      "<hr/>",
+      "This kind soul&&r will mine ores for you when placed above a vein.",
+      "<br/>",
+      "Vertical range is unlimited below the miner. Horizontal range is displayed in the tooltip.",
+      "<br/>",
+      "The &&bMV&&r variant may not have the range to mine a full vein, but the &&6HV&&r variant does, so you may wish hold off for now. Get &&eeither&&r to complete this Quest.",
+      "{@pagebreak}",
+      "You will need &&9Power&&r. &&aCharged Batteries&&r may work, but they tend to run out of power, which is a bit inconvenient.",
+      "<br/>",
+      "Our top suggestion is to use a filled &&3Drum&&r of some kind of fuel (if you're using Steam, no dice!) and a &&3Generator&&r. ",
+      "<br/>",
+      "Place the Drum above your Generator and right-click it with a &&5Screwdriver&&r to auto-output into the Generator.",
+      "{@pagebreak}",
+      "&&cNote:&&r Do not forget to &&dchunkload&&r all 9 chunks of the ore vein with FTB Utilities (open the map in the top left corner, claim the chunks with left-click, and enable force loading with shift-left-click).",
+      "<br/>",
+      "&&9Tip:&&r You can either use an &&3ME Chest&&r or a &&32x2 Drawer&&r as the output inventory to make transporting the ores back home a simple task. The &&3ME Chest&&r can be powered with EU directly.",
+      "<hr/>",
+      "<reward reward=\"2C877DA425BBFC5D\" quest=\"5C94CF50090D7DA0\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:mv_miner"
+    },
+    "groups": {
+      "§bMV§r - Medium Voltage": {
+        "position": [
+          -108,
+          48
+        ]
+      }
+    }
+  }
+}

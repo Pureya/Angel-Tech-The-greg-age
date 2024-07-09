@@ -1,0 +1,56 @@
+{
+  "settings": {},
+  "dependencies": [
+    "216E5A3574AC08BF",
+    "0425179329ED1B72"
+  ],
+  "tasks": {
+    "2EC4E901B2CD35FA": {
+      "title": "IV Dynamo/Energy Hatch",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:iv_energy_input_hatch"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iv_energy_output_hatch"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Upgrading your EBF for the millionth time",
+    "description": [
+      "<h2>This is second nature at this point</h2>",
+      "<hr/>",
+      "<task task=\"2EC4E901B2CD35FA\" quest=\"48DEABA155605D23\"/>",
+      "<hr/>",
+      "This Quest will be completed with &&eeither&&r an &&3IV Energy Hatch&&r&&r... or an &&3IV Dynamo Hatch&&r for your Multiblock Generators.",
+      "<br/>",
+      "Don't forget that &&d4 Amp&&r variants exist! However they require &&aNiobium-Titanium Cables&&r, which need &&9Polyphenylene Sulfide&&r.",
+      "<br/>",
+      "Look down in the &&dLuV&&r Chapter for that (don't worry... it's easy to obtain)."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:iv_energy_input_hatch"
+    },
+    "subtitle": {
+      "text": "This is second nature at this point"
+    },
+    "groups": {
+      "§9IV§r - Insane Voltage": {
+        "position": [
+          120,
+          120
+        ]
+      }
+    }
+  }
+}

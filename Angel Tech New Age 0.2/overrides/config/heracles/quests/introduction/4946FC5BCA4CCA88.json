@@ -1,0 +1,75 @@
+{
+  "dependencies": [
+    "2001CB4968D3E0A2"
+  ],
+  "tasks": {
+    "3545479A7C09CDFC": {
+      "type": "heracles:item",
+      "item": "gtceu:coke_oven",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "60891A0DEF29E9A1": {
+      "item": {
+        "id": "gtceu:exquisite_coke_gem",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": "Your first big project... hopefully"
+    },
+    "description": [
+      "<h2>Your first big project... hopefully</h2>",
+      "<hr/>",
+      "<task task=\"3545479A7C09CDFC\" quest=\"4946FC5BCA4CCA88\"/>",
+      "<hr/>",
+      "The &&e&&lCoke Oven&&r will likely be your first &&aGregTech&&r multiblock. Congratulations!",
+      "<br/>",
+      "It is used to make &&aCoke&&r from &&eCoal&&r, or &&aCharcoal&&r from &&eWood&&r, in addition to &&dliquid Creosote&&r as a &&3bonus&&r output.",
+      "<br/>",
+      "Take a look at the &&6Multiblock Preview&&r tab in JEI (press &&dU&&r over the controller block of any Multiblock!) to see the structure pattern.",
+      "",
+      "&&9Note:&&r &&lAny&&r Brick block can be replaced with a &&3Coke Oven Hatch&&r. You can have up to five of them.",
+      "<br/>",
+      "The Hatch allows for automation - it'll &&dauto-export&&r both Fluid and Items! It also works for insertion into the Coke Oven (you can use Hoppers).",
+      "<br/>",
+      "If the Coke Oven happens to fully fill up on &&eCreosote&&r that you are not using, break and replace the Coke Oven block. &&3Automated fluid voiding&&r is available later in the game.",
+      "",
+      "&&l&&3Lore:&&r&&o The concept of multiblocks is a modded Minecraft classic. Think of IC2's Nuclear Reactor, or Railcraft's Coke Oven - truly revolutionary at the time!&&r",
+      "<hr/>",
+      "<reward reward=\"60891A0DEF29E9A1\" quest=\"4946FC5BCA4CCA88\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          168,
+          -144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:coke_oven",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "text": "Coke Oven"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,1420 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ae2:certus_quartz_axe": [
+      112675,
+      0.51635593
+    ],
+    "ae2:certus_quartz_sword": [
+      112762,
+      0.049
+    ],
+    "ae2:fluix_axe": [
+      111811,
+      1.6502495
+    ],
+    "ae2:fluix_sword": [
+      111903,
+      1.531011
+    ],
+    "ae2:nether_quartz_axe": [
+      112675,
+      0.51635593
+    ],
+    "ae2:nether_quartz_sword": [
+      112762,
+      0.049
+    ],
+    "alexsmobs:skelewag_sword": [
+      112486,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      112783,
+      0.0469
+    ],
+    "cfm:spatula": [
+      112762,
+      0.049
+    ],
+    "draconicevolution:chaotic_axe": [
+      112769,
+      0.048299998
+    ],
+    "draconicevolution:chaotic_bow": [
+      111454,
+      2.1169202
+    ],
+    "draconicevolution:chaotic_sword": [
+      112929,
+      0.0323
+    ],
+    "draconicevolution:draconic_axe": [
+      113061,
+      0.0191
+    ],
+    "draconicevolution:draconic_bow": [
+      111454,
+      2.1169202
+    ],
+    "draconicevolution:draconic_sword": [
+      113139,
+      0.011299999
+    ],
+    "draconicevolution:wyvern_axe": [
+      113023,
+      0.022899998
+    ],
+    "draconicevolution:wyvern_bow": [
+      111454,
+      2.1169202
+    ],
+    "draconicevolution:wyvern_sword": [
+      113111,
+      0.014099999
+    ],
+    "endermanoverhaul:corrupted_blade": [
+      112762,
+      0.049
+    ],
+    "gcyr:bisalloy_400_axe": [
+      110923,
+      3.9617841
+    ],
+    "gcyr:bisalloy_400_butchery_knife": [
+      111010,
+      3.7449348
+    ],
+    "gcyr:bisalloy_400_knife": [
+      111033,
+      3.6843565
+    ],
+    "gcyr:bisalloy_400_sword": [
+      110979,
+      3.8241134
+    ],
+    "gtceu:aluminium_axe": [
+      111696,
+      1.7998894
+    ],
+    "gtceu:aluminium_butchery_knife": [
+      111758,
+      1.719132
+    ],
+    "gtceu:aluminium_knife": [
+      111812,
+      1.6489512
+    ],
+    "gtceu:aluminium_sword": [
+      111715,
+      1.7751209
+    ],
+    "gtceu:blue_steel_axe": [
+      111276,
+      2.3518867
+    ],
+    "gtceu:blue_steel_butchery_knife": [
+      111377,
+      2.2183836
+    ],
+    "gtceu:blue_steel_knife": [
+      111422,
+      2.159053
+    ],
+    "gtceu:blue_steel_sword": [
+      111323,
+      2.2897036
+    ],
+    "gtceu:bronze_axe": [
+      112807,
+      0.044499997
+    ],
+    "gtceu:bronze_butchery_knife": [
+      112891,
+      0.036099996
+    ],
+    "gtceu:bronze_knife": [
+      112912,
+      0.033999998
+    ],
+    "gtceu:bronze_sword": [
+      112861,
+      0.0391
+    ],
+    "gtceu:cobalt_brass_axe": [
+      111393,
+      2.1972775
+    ],
+    "gtceu:cobalt_brass_butchery_knife": [
+      111477,
+      2.0866673
+    ],
+    "gtceu:cobalt_brass_knife": [
+      111498,
+      2.0590668
+    ],
+    "gtceu:cobalt_brass_sword": [
+      111447,
+      2.1261325
+    ],
+    "gtceu:damascus_steel_axe": [
+      111323,
+      2.2897036
+    ],
+    "gtceu:damascus_steel_butchery_knife": [
+      111435,
+      2.1419308
+    ],
+    "gtceu:damascus_steel_knife": [
+      111468,
+      2.0985024
+    ],
+    "gtceu:damascus_steel_sword": [
+      111393,
+      2.1972775
+    ],
+    "gtceu:diamond_axe": [
+      111701,
+      1.7933697
+    ],
+    "gtceu:diamond_butchery_knife": [
+      111777,
+      1.6944221
+    ],
+    "gtceu:diamond_knife": [
+      111828,
+      1.6281849
+    ],
+    "gtceu:diamond_sword": [
+      111717,
+      1.7725146
+    ],
+    "gtceu:duranium_axe": [
+      98988,
+      29.425251
+    ],
+    "gtceu:duranium_butchery_knife": [
+      99061,
+      29.26619
+    ],
+    "gtceu:duranium_knife": [
+      99080,
+      29.224794
+    ],
+    "gtceu:duranium_sword": [
+      99034,
+      29.325014
+    ],
+    "gtceu:flint_axe": [
+      113054,
+      0.019799998
+    ],
+    "gtceu:flint_knife": [
+      113139,
+      0.011299999
+    ],
+    "gtceu:flint_sword": [
+      113100,
+      0.015199999
+    ],
+    "gtceu:hsse_axe": [
+      107738,
+      10.685646
+    ],
+    "gtceu:hsse_butchery_knife": [
+      107790,
+      10.576731
+    ],
+    "gtceu:hsse_knife": [
+      107800,
+      10.55579
+    ],
+    "gtceu:hsse_sword": [
+      107772,
+      10.614429
+    ],
+    "gtceu:invar_axe": [
+      112448,
+      0.82990474
+    ],
+    "gtceu:invar_butchery_knife": [
+      112546,
+      0.7012731
+    ],
+    "gtceu:invar_knife": [
+      112573,
+      0.66491455
+    ],
+    "gtceu:invar_sword": [
+      112510,
+      0.7489827
+    ],
+    "gtceu:iron_axe": [
+      112698,
+      0.47611615
+    ],
+    "gtceu:iron_butchery_knife": [
+      112782,
+      0.047
+    ],
+    "gtceu:iron_knife": [
+      112803,
+      0.044899996
+    ],
+    "gtceu:iron_sword": [
+      112752,
+      0.049999997
+    ],
+    "gtceu:naquadah_alloy_axe": [
+      107692,
+      10.782021
+    ],
+    "gtceu:naquadah_alloy_butchery_knife": [
+      107765,
+      10.62909
+    ],
+    "gtceu:naquadah_alloy_knife": [
+      107784,
+      10.589295
+    ],
+    "gtceu:naquadah_alloy_sword": [
+      107738,
+      10.685646
+    ],
+    "gtceu:neutronium_axe": [
+      13,
+      258.57043
+    ],
+    "gtceu:neutronium_butchery_knife": [
+      55,
+      258.47025
+    ],
+    "gtceu:neutronium_knife": [
+      73,
+      258.4273
+    ],
+    "gtceu:neutronium_sword": [
+      37,
+      258.51318
+    ],
+    "gtceu:red_steel_axe": [
+      108664,
+      8.750806
+    ],
+    "gtceu:red_steel_butchery_knife": [
+      108765,
+      8.540304
+    ],
+    "gtceu:red_steel_knife": [
+      108810,
+      8.446543
+    ],
+    "gtceu:red_steel_sword": [
+      108711,
+      8.652839
+    ],
+    "gtceu:rose_gold_axe": [
+      111828,
+      1.6281849
+    ],
+    "gtceu:rose_gold_butchery_knife": [
+      111912,
+      1.5193686
+    ],
+    "gtceu:rose_gold_knife": [
+      111933,
+      1.4922183
+    ],
+    "gtceu:rose_gold_sword": [
+      111882,
+      1.5581918
+    ],
+    "gtceu:stainless_steel_axe": [
+      111282,
+      2.3439429
+    ],
+    "gtceu:stainless_steel_butchery_knife": [
+      111408,
+      2.1775014
+    ],
+    "gtceu:stainless_steel_knife": [
+      111447,
+      2.1261325
+    ],
+    "gtceu:stainless_steel_sword": [
+      111360,
+      2.2408218
+    ],
+    "gtceu:steel_axe": [
+      112230,
+      1.1101819
+    ],
+    "gtceu:steel_butchery_knife": [
+      112328,
+      0.98451304
+    ],
+    "gtceu:steel_knife": [
+      112355,
+      0.9498429
+    ],
+    "gtceu:steel_sword": [
+      112292,
+      1.030694
+    ],
+    "gtceu:sterling_silver_axe": [
+      111689,
+      1.8090193
+    ],
+    "gtceu:sterling_silver_butchery_knife": [
+      111738,
+      1.7451619
+    ],
+    "gtceu:sterling_silver_knife": [
+      111795,
+      1.6710293
+    ],
+    "gtceu:sterling_silver_sword": [
+      111711,
+      1.7803338
+    ],
+    "gtceu:titanium_axe": [
+      110405,
+      5.112161
+    ],
+    "gtceu:titanium_butchery_knife": [
+      110506,
+      4.895935
+    ],
+    "gtceu:titanium_knife": [
+      110551,
+      4.798898
+    ],
+    "gtceu:titanium_sword": [
+      110452,
+      5.0117817
+    ],
+    "gtceu:tungsten_carbide_axe": [
+      111393,
+      2.1972775
+    ],
+    "gtceu:tungsten_carbide_butchery_knife": [
+      111477,
+      2.0866673
+    ],
+    "gtceu:tungsten_carbide_knife": [
+      111498,
+      2.0590668
+    ],
+    "gtceu:tungsten_carbide_sword": [
+      111447,
+      2.1261325
+    ],
+    "gtceu:tungsten_steel_axe": [
+      109525,
+      6.957843
+    ],
+    "gtceu:tungsten_steel_butchery_knife": [
+      109601,
+      6.799529
+    ],
+    "gtceu:tungsten_steel_knife": [
+      109652,
+      6.693252
+    ],
+    "gtceu:tungsten_steel_sword": [
+      109541,
+      6.9245186
+    ],
+    "gtceu:ultimet_axe": [
+      109525,
+      6.957843
+    ],
+    "gtceu:ultimet_butchery_knife": [
+      109601,
+      6.799529
+    ],
+    "gtceu:ultimet_knife": [
+      109652,
+      6.693252
+    ],
+    "gtceu:ultimet_sword": [
+      109541,
+      6.9245186
+    ],
+    "gtceu:vanadium_steel_axe": [
+      110489,
+      4.9324703
+    ],
+    "gtceu:vanadium_steel_butchery_knife": [
+      110587,
+      4.7208867
+    ],
+    "gtceu:vanadium_steel_knife": [
+      110614,
+      4.662123
+    ],
+    "gtceu:vanadium_steel_sword": [
+      110551,
+      4.798898
+    ],
+    "gtceu:wrought_iron_axe": [
+      112481,
+      0.78698194
+    ],
+    "gtceu:wrought_iron_butchery_knife": [
+      112565,
+      0.67575234
+    ],
+    "gtceu:wrought_iron_knife": [
+      112586,
+      0.64716274
+    ],
+    "gtceu:wrought_iron_sword": [
+      112535,
+      0.7159294
+    ],
+    "minecraft:bow": [
+      110684,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      110978,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      110447,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      110509,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      111652,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      113108,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      113171,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      112675,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      112762,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      111752,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      109611,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      109681,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      112702,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      111752,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      112878,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      112986,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      111552,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      110752,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      113062,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      113125,
+      0.0127
+    ],
+    "simplyswords:arcanethyst": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:awakened_lichblade": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:bramblethorn": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:brimstone_claymore": [
+      107457,
+      11.274778
+    ],
+    "simplyswords:decaying_relic": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:diamond_chakram": [
+      110534,
+      4.8356147
+    ],
+    "simplyswords:diamond_claymore": [
+      110447,
+      5.022479
+    ],
+    "simplyswords:diamond_cutlass": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_glaive": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_greataxe": [
+      110410,
+      5.1015
+    ],
+    "simplyswords:diamond_greathammer": [
+      110369,
+      5.1888037
+    ],
+    "simplyswords:diamond_halberd": [
+      110410,
+      5.1015
+    ],
+    "simplyswords:diamond_katana": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_longsword": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_rapier": [
+      110534,
+      4.8356147
+    ],
+    "simplyswords:diamond_sai": [
+      110572,
+      4.753436
+    ],
+    "simplyswords:diamond_scythe": [
+      110480,
+      4.951788
+    ],
+    "simplyswords:diamond_spear": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_twinblade": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:diamond_warglaive": [
+      110509,
+      4.889481
+    ],
+    "simplyswords:dormant_relic": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:emberblade": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:emberlash": [
+      107628,
+      10.916151
+    ],
+    "simplyswords:enigma": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:flamewind": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:frostfall": [
+      107463,
+      11.26219
+    ],
+    "simplyswords:gold_chakram": [
+      113184,
+      0.0068
+    ],
+    "simplyswords:gold_claymore": [
+      113133,
+      0.011899999
+    ],
+    "simplyswords:gold_cutlass": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_glaive": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_greataxe": [
+      113108,
+      0.014399999
+    ],
+    "simplyswords:gold_greathammer": [
+      113079,
+      0.0173
+    ],
+    "simplyswords:gold_halberd": [
+      113108,
+      0.014399999
+    ],
+    "simplyswords:gold_katana": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_longsword": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_rapier": [
+      113184,
+      0.0068
+    ],
+    "simplyswords:gold_sai": [
+      113198,
+      0.0053999997
+    ],
+    "simplyswords:gold_scythe": [
+      113154,
+      0.009799999
+    ],
+    "simplyswords:gold_spear": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_twinblade": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:gold_warglaive": [
+      113171,
+      0.0081
+    ],
+    "simplyswords:harbinger": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:hearthflame": [
+      107435,
+      11.320946
+    ],
+    "simplyswords:hiveheart": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:icewhisper": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:iron_chakram": [
+      112783,
+      0.0469
+    ],
+    "simplyswords:iron_claymore": [
+      112708,
+      0.45638117
+    ],
+    "simplyswords:iron_cutlass": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_glaive": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_greataxe": [
+      112675,
+      0.51635593
+    ],
+    "simplyswords:iron_greathammer": [
+      112638,
+      0.57356006
+    ],
+    "simplyswords:iron_halberd": [
+      112675,
+      0.51635593
+    ],
+    "simplyswords:iron_katana": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_longsword": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_rapier": [
+      112783,
+      0.0469
+    ],
+    "simplyswords:iron_sai": [
+      112813,
+      0.043899998
+    ],
+    "simplyswords:iron_scythe": [
+      112737,
+      0.37663084
+    ],
+    "simplyswords:iron_spear": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_twinblade": [
+      112762,
+      0.049
+    ],
+    "simplyswords:iron_warglaive": [
+      112762,
+      0.049
+    ],
+    "simplyswords:livyatan": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:magiblade": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:magiscythe": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:magispear": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:mjolnir": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:molten_edge": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:netherite_chakram": [
+      109710,
+      6.5723376
+    ],
+    "simplyswords:netherite_claymore": [
+      109611,
+      6.778693
+    ],
+    "simplyswords:netherite_cutlass": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_glaive": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_greataxe": [
+      109570,
+      6.8641124
+    ],
+    "simplyswords:netherite_greathammer": [
+      109564,
+      6.876611
+    ],
+    "simplyswords:netherite_halberd": [
+      109570,
+      6.8641124
+    ],
+    "simplyswords:netherite_katana": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_longsword": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_rapier": [
+      109710,
+      6.5723376
+    ],
+    "simplyswords:netherite_sai": [
+      109756,
+      6.476395
+    ],
+    "simplyswords:netherite_scythe": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:netherite_spear": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_twinblade": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:netherite_warglaive": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:ribboncleaver": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:righteous_relic": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:runic_chakram": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:runic_claymore": [
+      109570,
+      6.8641124
+    ],
+    "simplyswords:runic_cutlass": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_glaive": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_greataxe": [
+      109564,
+      6.876611
+    ],
+    "simplyswords:runic_greathammer": [
+      109554,
+      6.8974404
+    ],
+    "simplyswords:runic_halberd": [
+      109564,
+      6.876611
+    ],
+    "simplyswords:runic_katana": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_longsword": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_rapier": [
+      109681,
+      6.632802
+    ],
+    "simplyswords:runic_sai": [
+      109735,
+      6.5202
+    ],
+    "simplyswords:runic_scythe": [
+      109611,
+      6.778693
+    ],
+    "simplyswords:runic_spear": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_twinblade": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:runic_warglaive": [
+      109648,
+      6.701589
+    ],
+    "simplyswords:shadowsting": [
+      107666,
+      10.836505
+    ],
+    "simplyswords:slumbering_lichblade": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:soulkeeper": [
+      107435,
+      11.320946
+    ],
+    "simplyswords:soulpyre": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:soulrender": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:soulstealer": [
+      107628,
+      10.916151
+    ],
+    "simplyswords:stars_edge": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:stormbringer": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:storms_edge": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:sunfire": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:sword_on_a_stick": [
+      113087,
+      0.0165
+    ],
+    "simplyswords:tainted_relic": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:tempest": [
+      107628,
+      10.916151
+    ],
+    "simplyswords:thunderbrand": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:toxic_longsword": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:twisted_blade": [
+      107504,
+      11.176172
+    ],
+    "simplyswords:waking_lichblade": [
+      107447,
+      11.295764
+    ],
+    "simplyswords:watcher_claymore": [
+      107457,
+      11.274778
+    ],
+    "simplyswords:watching_warglaive": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:waxweaver": [
+      107457,
+      11.274778
+    ],
+    "simplyswords:whisperwind": [
+      107541,
+      11.098565
+    ],
+    "simplyswords:wickpiercer": [
+      107504,
+      11.176172
+    ]
+  },
+  "OFFHAND": {
+    "endermanoverhaul:corrupted_shield": [
+      275,
+      3.2997048
+    ],
+    "minecraft:ender_pearl": [
+      1269,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      1241,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      869,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      947,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      1538,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      976,
+      0.6972618
+    ],
+    "gcyr:space_boots": [
+      19,
+      1.9357834
+    ],
+    "gtceu:hazmat_boots": [
+      518,
+      1.288585
+    ],
+    "gtceu:nanomuscle_boots": [
+      769,
+      0.9665407
+    ],
+    "gtceu:quarktech_boots": [
+      769,
+      0.9665407
+    ],
+    "minecraft:chainmail_boots": [
+      1087,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      171,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      1153,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      839,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      1435,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      44,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_boots": [
+      734,
+      1.0114565
+    ],
+    "toughasnails:leaf_boots": [
+      1603,
+      0.0075999997
+    ],
+    "toughasnails:wool_boots": [
+      1603,
+      0.0075999997
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      19,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1254,
+      1.173019
+    ],
+    "gcyr:space_leggings": [
+      665,
+      1.9357834
+    ],
+    "gtceu:hazmat_leggings": [
+      1164,
+      1.288585
+    ],
+    "gtceu:nanomuscle_leggings": [
+      1415,
+      0.9665407
+    ],
+    "gtceu:quarktech_leggings": [
+      1415,
+      0.9665407
+    ],
+    "minecraft:chainmail_leggings": [
+      1733,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      817,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      1799,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      1485,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2081,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      690,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_leggings": [
+      1380,
+      1.0114565
+    ],
+    "toughasnails:leaf_leggings": [
+      2249,
+      0.0075999997
+    ],
+    "toughasnails:wool_leggings": [
+      2249,
+      0.0075999997
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      620,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      699,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      1047,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      1270,
+      0.59963983
+    ],
+    "draconicevolution:chaotic_chestpiece": [
+      19,
+      2.228941
+    ],
+    "draconicevolution:draconic_chestpiece": [
+      19,
+      2.228941
+    ],
+    "draconicevolution:wyvern_chestpiece": [
+      19,
+      2.228941
+    ],
+    "endermanoverhaul:badlands_hood": [
+      1153,
+      0.75818443
+    ],
+    "endermanoverhaul:savanna_hood": [
+      1153,
+      0.75818443
+    ],
+    "endermanoverhaul:snowy_hood": [
+      1153,
+      0.75818443
+    ],
+    "gcyr:space_chestplate": [
+      242,
+      1.9357834
+    ],
+    "gtceu:advanced_electric_jetpack": [
+      1047,
+      0.89580816
+    ],
+    "gtceu:advanced_quarktech_chestplate": [
+      992,
+      0.9665407
+    ],
+    "gtceu:avanced_nanomuscle_chestplate": [
+      992,
+      0.9665407
+    ],
+    "gtceu:electric_jetpack": [
+      1047,
+      0.89580816
+    ],
+    "gtceu:hazmat_chestpiece": [
+      741,
+      1.288585
+    ],
+    "gtceu:liquid_fuel_jetpack": [
+      1047,
+      0.89580816
+    ],
+    "gtceu:nanomuscle_chestplate": [
+      992,
+      0.9665407
+    ],
+    "gtceu:quarktech_chestplate": [
+      992,
+      0.9665407
+    ],
+    "gtceu:rubber_gloves": [
+      1458,
+      0.0444
+    ],
+    "minecraft:chainmail_chestplate": [
+      1310,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      394,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      1376,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      1062,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      1658,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      267,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_chestplate": [
+      957,
+      1.0114565
+    ],
+    "toughasnails:leaf_chestplate": [
+      1826,
+      0.0075999997
+    ],
+    "toughasnails:wool_chestplate": [
+      1826,
+      0.0075999997
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      2767,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      2461,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      2554,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      2452,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2767,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2738,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      2202,
+      1.0871058
+    ],
+    "gcyr:space_helmet": [
+      1546,
+      1.9357834
+    ],
+    "gtceu:face_mask": [
+      2742,
+      0.0464
+    ],
+    "gtceu:hazmat_headpiece": [
+      2045,
+      1.288585
+    ],
+    "gtceu:nanomuscle_helmet": [
+      2296,
+      0.9665407
+    ],
+    "gtceu:nightvision_goggles": [
+      2351,
+      0.89580816
+    ],
+    "gtceu:quarktech_helmet": [
+      2296,
+      0.9665407
+    ],
+    "minecraft:chainmail_helmet": [
+      2614,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1698,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2680,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2366,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2962,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1571,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2310,
+      0.948558
+    ],
+    "toughasnails:leaf_helmet": [
+      3130,
+      0.0075999997
+    ],
+    "toughasnails:wool_helmet": [
+      3130,
+      0.0075999997
+    ],
+    "youkaishomecoming:cirno_hairband": [
+      2336,
+      0.91512454
+    ],
+    "youkaishomecoming:koishi_hat": [
+      19,
+      5.830231
+    ],
+    "youkaishomecoming:reimu_hairband": [
+      1440,
+      2.074836
+    ],
+    "youkaishomecoming:rumia_hairband": [
+      2336,
+      0.91512454
+    ],
+    "youkaishomecoming:straw_hat": [
+      2731,
+      0.0475
+    ],
+    "youkaishomecoming:suwako_hat": [
+      1427,
+      2.0919268
+    ]
+  }
+}

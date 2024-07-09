@@ -1,0 +1,46 @@
+{
+  "settings": {},
+  "dependencies": [
+    "0B25A282F677744B",
+    "7A55CC71442CC854"
+  ],
+  "tasks": {
+    "4576F08E8AE8C110": {
+      "type": "heracles:item",
+      "item": "gtceu:ev_large_miner"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Multiblock Miner",
+    "description": [
+      "<task task=\"4576F08E8AE8C110\" quest=\"16E7CAC7BC8BFD8E\"/>",
+      "<hr/>",
+      "We admit it... this is a completely &&doptional&&r Multiblock. Many playtesters kept using their &&6HV&&r singleblock miners and didn't find any problems in throughput.",
+      "<br/>",
+      "The &&3Larger Miner&&r will further boost your returns when collecting ores from veins.",
+      "<br/>",
+      "Ores are mined as if they were &&amacerated&&r, but they yield &&6three times&&r as many &&dCrushed ores&&r.",
+      "<br/>",
+      "You will need to ensure that &&aDrilling Fluid&&r is fully automated before you run this.",
+      "<br/>",
+      "You might also want to use a &&3Quantum Tunnel&&r from AE2 and &&3GTEU P2P Tunnels&&r to transfer the items and to power it up.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o There were some interesting side effects from porting this over from Gregicality, as the multiblock originated from GregTech 5.",
+      "<br/>",
+      "It's not perfect, as there isn't really any advantage on upgrading this miner to the advanced versions. We were thinking of rebalancing the energy costs and yield per tier."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:ev_large_miner"
+    },
+    "groups": {
+      "§5EV§r - Extreme Voltage": {
+        "position": [
+          180,
+          108
+        ]
+      }
+    }
+  }
+}

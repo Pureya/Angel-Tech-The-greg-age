@@ -1,0 +1,88 @@
+{
+  "settings": {},
+  "dependencies": [
+    "648BCF486E16CCB2"
+  ],
+  "tasks": {
+    "07BF7F14849A3027": {
+      "title": "Turbo Charger",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:ulv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:lv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:mv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:hv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:luv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:zpm_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:uv_charger_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:uhv_charger_4x"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Turbo Charger",
+    "description": [
+      "<h2>100% Battery</h2>",
+      "<hr/>",
+      "<task task=\"07BF7F14849A3027\" quest=\"2DB259568F347C0E\"/>",
+      "<hr/>",
+      "&&o&&7This quest's subject is optional, but may still be of interest to you. We've put it here in the name of completeness.&&r",
+      "<br/>",
+      "The &&3Turbo Charger&&r charges &&6RF and EU&&r items such as &&9Drills&&r extremely quickly.",
+      "It accepts up to 4 Amps for every item it charges, making it &&6twice as fast&&r as the &&3Battery Buffer&&r. It cannot discharge, though.",
+      "<br/>",
+      "&&eAny&&r Charger will complete this Quest."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:lv_charger_4x"
+    },
+    "subtitle": {
+      "text": "100% Battery"
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          180,
+          0
+        ]
+      }
+    }
+  }
+}

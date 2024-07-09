@@ -1,0 +1,56 @@
+{
+  "settings": {},
+  "dependencies": [
+    "40DE888E6025C646"
+  ],
+  "tasks": {
+    "281B54469C34A5E2": {
+      "type": "heracles:item",
+      "item": "toolbelt:belt"
+    },
+    "5FFC5866C6E85F86": {
+      "type": "heracles:item",
+      "item": "toolbelt:pouch"
+    }
+  },
+  "rewards": {
+    "38A84272E0407C69": {
+      "type": "heracles:item",
+      "item": {
+        "id": "toolbelt:pouch"
+      }
+    }
+  },
+  "display": {
+    "title": "Tool Belt",
+    "description": [
+      "<h2>Take some weight off your inventory</h2>",
+      "<hr/>",
+      "<task task=\"281B54469C34A5E2\" quest=\"4A993CC40AB6D35C\"/>",
+      "<task task=\"5FFC5866C6E85F86\" quest=\"4A993CC40AB6D35C\"/>",
+      "<hr/>",
+      "With your first &&8Steel&&r under your belt (ha!), you can make a &&bTool Belt&&r to free up inventory space from all those pesky GT tools. It can be equipped in its own &&ddedicated Curio slot&&r.",
+      "<br/>",
+      "By default, the hotkey to open the belt is &&eR&&r, but you can rebind it if you prefer. From this GUI, you can place tools inside the belt's storage, and swap them with your &&dmain-hand tool&&r whenever is convenient.",
+      "<br/>",
+      "The belt has a small initial inventory of a single tool. This can be expanded by combining the belt with &&bBelt Pouches&&r in an &&aAnvil&&r - the maximum slottage is &&69 slots&&r.",
+      "<hr/>",
+      "<reward reward=\"38A84272E0407C69\" quest=\"4A993CC40AB6D35C\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "toolbelt:belt"
+    },
+    "subtitle": {
+      "text": "Take some weight off your inventory"
+    },
+    "groups": {
+      "Steam Age": {
+        "position": [
+          72,
+          -84
+        ]
+      }
+    }
+  }
+}

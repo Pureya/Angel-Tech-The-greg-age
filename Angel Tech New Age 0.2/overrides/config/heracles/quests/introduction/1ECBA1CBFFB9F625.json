@@ -1,0 +1,80 @@
+{
+  "dependencies": [
+    "0EAF2C5B5EB755C5"
+  ],
+  "tasks": {
+    "iron": {
+      "type": "heracles:item",
+      "item": "minecraft:iron_ingot",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "5CD664F60E977214": {
+      "item": {
+        "id": "gtceu:magnetite_ore",
+        "count": 32
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Isn't it ironic... don't you think?"
+    },
+    "description": [
+      "<h2>Isn't it ironic... don't you think?</h2>",
+      "<hr/>",
+      "<task task=\"063705687ED657F5\" quest=\"1ECBA1CBFFB9F625\"/>",
+      "<hr/>",
+      "In the real world, iron isn't &&oonly&&r found as pure Iron Ore. Instead, it's found in a &&avariety&&r of &&eoxide forms&&r or &&eminerals&&r.",
+      "<br/>",
+      "You'll want to go and collect quite a bit of Iron, because you're going to need &&9a bunch&&r very soon. If you're struggling to find some, the &&aOre Generation&&r quest tab contains a lot of information on &&eore veins&&r. You may also want to check the Ore Spawn Information and Ore Byproduct List tabs in &&2JEI&&r.",
+      "<br/>",
+      " Hematite",
+      "Pyrite",
+      "Geothite",
+      "Magnetite",
+      "Yellow Limonite",
+      "granitic Mineral Sand",
+      "Basaltic Mineral Sand",
+      "Can be smelted into Iron. That comes to &&dfour different veins&&r that can give you Iron.",
+      "<br/>",
+      "Lastly, Fortune &&cdoes not&&r work on GregTech ores, &&7unfortunately&&r.",
+      "",
+      "Whilst it may be common habit to hoard ore in &&bmodded Minecraft&&r prior to unlocking some kind of &&aore multiplication&&r, don't worry about ore processing yet. Direct smelting remains the most efficient method for a long, &&olong&&r while, given how easy it is to obtain a lot of ore in a &&emining trip&&r.",
+      "<br/>",
+      "",
+      "<hr/>",
+      "<reward reward=\"5CD664F60E977214\" quest=\"1ECBA1CBFFB9F625\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          24,
+          -96
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Iron, Iron, Iron!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

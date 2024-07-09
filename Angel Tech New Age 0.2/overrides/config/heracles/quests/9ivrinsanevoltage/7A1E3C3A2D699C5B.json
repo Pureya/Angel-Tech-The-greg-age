@@ -1,0 +1,54 @@
+{
+  "settings": {},
+  "dependencies": [
+    "1776FA1F3255731E",
+    "5CA86A333670A55C",
+    "069FD86133D7D582"
+  ],
+  "tasks": {
+    "544762609C1B9613": {
+      "icon": {
+        "type": "heracles:item",
+        "item": "gtceu:hssg_coil_block"
+      },
+      "type": "heracles:item",
+      "item": "gtceu:hssg_coil_block"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "HSS-G Coils",
+    "description": [
+      "<h2>Approaching solar temperatures</h2>",
+      "<hr/>",
+      "<task task=\"544762609C1B9613\" quest=\"7A1E3C3A2D699C5B\"/>",
+      "<hr/>",
+      "&&aHSS-G Coils&&r bring up the Heat Capacity to &&d5,400K&&r.",
+      "<br/>",
+      "The ever-tempting &&6Coil bonuses&&r&&r should be high incentive to make those early, as they become mandatory only during &&dLuV&&r.",
+      "<br/>",
+      "At this point, you may go back to using only one &&3Electric Blast Furnace&&r for your entire base, powering with the highest available Voltage you have.",
+      "<br/>",
+      "&&6Hot Metals&&r will start taking longer to cool down, as the &&3Vacuum Freezer&&r doesn't get perfect overclocks. For that, you probably want a dual (or quad) &&3Vacuum Freezer&&r.",
+      "{@pagebreak}",
+      "&&7Why are the ingots blue-ish, but the coils yellow?",
+      "<br/>",
+      "&&8Well, dear player... that's a brilliant question."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:hssg_coil_block"
+    },
+    "subtitle": {
+      "text": "Approaching solar temperatures"
+    },
+    "groups": {
+      "§9IV§r - Insane Voltage": {
+        "position": [
+          12,
+          48
+        ]
+      }
+    }
+  }
+}

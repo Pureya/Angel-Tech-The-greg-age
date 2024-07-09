@@ -1,0 +1,73 @@
+{
+  "settings": {},
+  "dependencies": [
+    "48AED37B4E20A99A"
+  ],
+  "tasks": {
+    "158F4EEDC214A3BA": {
+      "title": "Earlygame Item Pipes",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:tin_small_item_pipe"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:nickel_small_item_pipe"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:cobalt_small_item_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Item Pipes",
+    "description": [
+      "<h2>All your logistics woes are solved</h2>",
+      "<hr/>",
+      "<task task=\"158F4EEDC214A3BA\" quest=\"539CF1B85725786D\"/>",
+      "<hr/>",
+      "&&3Item Pipes&&r are a simple yet effective way to move items around &&dinstantly&&r, but with throughput limitations.",
+      "<br/>",
+      "Higher tier pipes provide ridiculously large throughput - a rare sight in modded Minecraft!",
+      "<br/>",
+      "Item Pipes &&9do not pull&&r, but they will push any item inserted into them to other connected inventories, prioritizing &&9the closest inventory&&r first.",
+      "{@pagebreak}",
+      "The priority mechanics are &&osomewhat complicated&&r, so skip ahead if you aren't interested:",
+      "<br/>",
+      "A &&eDestination&&r will have a &&dRouting Value&&r calculated, which is the sum of all \"Routing Values\" of the individual Pipes to that Destination. Whichever Destination has the &&clowest &&dRouting Value&&r will be the one selected for Insertion.",
+      "<br/>",
+      "&&3Restrictive Pipes&&r typically have the lowest Priority for insertion due to their higher Routing Value.",
+      "{@pagebreak}",
+      "Right now, you can use them in combination with &&6Hoppers&&r, but you will also be able to use them with Conveyor Modules, Output Buses, and machine Auto-Outputs all in the LV age.",
+      "<br/>",
+      "&&9Note:&&r GT6-style Pipes are &&denabled&&r. It means that placing Pipes connect them only to the block they were placed against. To open more connections, use your &&5Wrench&&r on the grid.",
+      "<br/>",
+      "Get &&eany&&r of the suggested Item Pipes to complete this quest.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o Oooooh, YEAH! Item Pipes were in GregTech 5, and for whatever reason they weren't kept for GTCE, so you had to use other mods to transport items. Who does that!? Jokes aside, we hope you enjoy Item Pipes being back in GregTech!"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:tin_small_item_pipe"
+    },
+    "subtitle": {
+      "text": "All your logistics woes are solved"
+    },
+    "groups": {
+      "Steam Age": {
+        "position": [
+          108,
+          60
+        ]
+      }
+    }
+  }
+}

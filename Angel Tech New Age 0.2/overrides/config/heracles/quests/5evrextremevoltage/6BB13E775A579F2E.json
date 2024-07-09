@@ -1,0 +1,62 @@
+{
+  "settings": {},
+  "dependencies": [
+    "4AFD3073C731A1E4",
+    "7FA0ACB7F161F378"
+  ],
+  "tasks": {
+    "3B898812B1C35440": {
+      "title": "Multiple Fluid Hatches",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:ev_input_hatch_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_input_hatch_9x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_output_hatch_4x"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ev_output_hatch_9x"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Multiple Fluid Hatches",
+    "description": [
+      "<h2>One-To-Many, Many-To-One</h2>",
+      "<hr/>",
+      "<task task=\"3B898812B1C35440\" quest=\"6BB13E775A579F2E\"/>",
+      "<hr/>",
+      "Need to handle &&6multiple&&r fluid inputs and outputs? Look no further - these &&aFluid Hatches&&r can handle more than one fluid at once!",
+      "<br/>",
+      "These cannot be used in a &&bDistillation Tower&&r, but may be particularly useful in &&5Large Chemical Reactors&&r."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "itemfilters:or"
+    },
+    "subtitle": {
+      "text": "One-To-Many, Many-To-One"
+    },
+    "groups": {
+      "§5EV§r - Extreme Voltage": {
+        "position": [
+          216,
+          180
+        ]
+      }
+    }
+  }
+}

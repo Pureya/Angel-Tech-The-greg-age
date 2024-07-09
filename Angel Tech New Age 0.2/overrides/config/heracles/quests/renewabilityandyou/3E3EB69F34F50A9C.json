@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "55D8E30978CBBC0D",
+    "26394C1290D70AB6",
+    "16A6AE5C770DB83A"
+  ],
+  "tasks": {
+    "0DED39C9E1966F0B": {
+      "type": "heracles:item",
+      "item": "gtceu:marble"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Acquire: gtceu:marble",
+    "description": [
+      "<h2>Calcite, Magnesium...</h2>",
+      "<hr/>",
+      "<task task=\"0DED39C9E1966F0B\" quest=\"3E3EB69F34F50A9C\"/>",
+      "<hr/>",
+      "Marble Dust isn't anything to write home about, yielding Calcite and Magnesium."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:marble"
+    },
+    "subtitle": {
+      "text": "Calcite, Magnesium..."
+    },
+    "groups": {
+      "Renewability and You": {
+        "position": [
+          74,
+          0
+        ]
+      }
+    }
+  }
+}

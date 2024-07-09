@@ -1,0 +1,63 @@
+{
+  "dependencies": [
+    "45969FFBF88F4FBB"
+  ],
+  "tasks": {
+    "70C69E5432F6C3BE": {
+      "title": "I accept responsibility for any mod conflicts ;)",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "460EC827273306A5": {
+      "item": {
+        "id": "culturaldelights:rice_ball",
+        "count": 2
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": "Omw to install DecoCraft"
+    },
+    "description": [
+      "<h2>Omw to install DecoCraft</h2>",
+      "<hr/>",
+      "<task task=\"70C69E5432F6C3BE\" quest=\"1283B4D7B5D82193\"/>",
+      "<hr/>",
+      "In this modpack, we've included enough QoL to &&o(hopefully)&&r fit your needs, and the pack is &&aperfectly playable&&r as is.",
+      "<br/>",
+      "&&dApplied Energistics 2&&r make an appearance to help with &&estorage&&r and &&6logistics&&r. Their recipes have been modified to fit progression, but you hopefully won't need to play 50 hours to make your first &&5Molecular Assembler&&r. There are also a few other mods that you may wish to pursue for some &&ahelpful QoL&&r.",
+      "<br/>",
+      "<reward reward=\"460EC827273306A5\" quest=\"1283B4D7B5D82193\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          72,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:structure_void",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "text": "More mods?"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

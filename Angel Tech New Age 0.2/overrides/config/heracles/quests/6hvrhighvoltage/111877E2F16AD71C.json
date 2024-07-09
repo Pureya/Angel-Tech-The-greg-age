@@ -1,0 +1,33 @@
+{
+  "settings": {},
+  "dependencies": [
+    "16B735F9C391D260"
+  ],
+  "tasks": {
+    "505B2CDC455C36C5": {
+      "type": "heracles:item",
+      "item": "gtceu:digital_interface_cover"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Digital Interface Cover",
+    "description": [
+      "<task task=\"505B2CDC455C36C5\" quest=\"111877E2F16AD71C\"/>",
+      "<hr/>",
+      "The &&9Digital Interface Cover (DIC)&&r is a visual Cover. It can show useful things like the status and progress of Machines, or the amount of fluids stored in a Super Tank."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:digital_interface_cover"
+    },
+    "groups": {
+      "§6HV§r - High Voltage": {
+        "position": [
+          36,
+          12
+        ]
+      }
+    }
+  }
+}

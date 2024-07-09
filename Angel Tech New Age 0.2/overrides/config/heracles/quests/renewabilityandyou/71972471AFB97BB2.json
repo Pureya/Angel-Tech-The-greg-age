@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "dependencies": [
+    "55D8E30978CBBC0D",
+    "26394C1290D70AB6",
+    "16A6AE5C770DB83A"
+  ],
+  "tasks": {
+    "3C423DE1EB48AFF5": {
+      "type": "heracles:item",
+      "item": "minecraft:obsidian"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Acquire: minecraft:obsidian",
+    "description": [
+      "<h2>Fallout: New Vegas, Iron...</h2>",
+      "<hr/>",
+      "<task task=\"3C423DE1EB48AFF5\" quest=\"71972471AFB97BB2\"/>",
+      "<hr/>",
+      "By placing some Redstone Dust into your Rock Breaker, you'll find yourself making some Obsidian.",
+      "<br/>",
+      "Obsidian Dust is quite useful, as it electrolyses into Iron."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:obsidian"
+    },
+    "subtitle": {
+      "text": "Fallout: New Vegas, Iron..."
+    },
+    "groups": {
+      "Renewability and You": {
+        "position": [
+          106,
+          -53
+        ]
+      }
+    }
+  }
+}

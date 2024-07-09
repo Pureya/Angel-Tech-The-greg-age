@@ -1,0 +1,46 @@
+{
+  "settings": {},
+  "dependencies": [
+    "63CD0236B337EAAD",
+    "37307A46E70011D3",
+    "3D98819A799D2E64"
+  ],
+  "tasks": {
+    "28CFFA0F7A33E02F": {
+      "type": "heracles:item",
+      "item": "gtceu:empty_spray_can"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Spray Can",
+    "description": [
+      "<h2>Time for server tag wars</h2>",
+      "<hr/>",
+      "<task task=\"28CFFA0F7A33E02F\" quest=\"5AD9884E7BFB2510\"/>",
+      "<hr/>",
+      "Unfortunately, this is only an &&lEmpty&&r Spray Can, which you have to fill with Chemical Dye before using.",
+      "<br/>",
+      "&&aSpray Cans&&r do not provide any functionality involving machines, but can be quite &&bvisually appealing and useful&&r!",
+      "<br/>",
+      "Any (or almost any) GregTech tile entity (machine, pipe, cable...) can be &&6painted&&r to one of the 16 colors of your choosing. This is great for screenshots, or to separate different setups for convenience in a Multiplayer base. They also help with distinguishing between pipelines and cables.",
+      "<br/>",
+      "Holding the &&aSpray Can&&r in the offhand will automatically paint any block you place."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:empty_spray_can"
+    },
+    "subtitle": {
+      "text": "Time for server tag wars"
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          108,
+          216
+        ]
+      }
+    }
+  }
+}

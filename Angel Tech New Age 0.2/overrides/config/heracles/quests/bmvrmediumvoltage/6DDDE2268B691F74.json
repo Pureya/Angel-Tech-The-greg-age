@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "dependencies": [
+    "26394C1290D70AB6"
+  ],
+  "tasks": {
+    "0A42FE4B72071451": {
+      "type": "heracles:item",
+      "item": "gtceu:multi_smelter"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Ultimate Smelter",
+    "description": [
+      "<h2>Possibly the most powerful furnace you've seen</h2>",
+      "<hr/>",
+      "<task task=\"0A42FE4B72071451\" quest=\"6DDDE2268B691F74\"/>",
+      "<hr/>",
+      "At its lowest power (Cupronickel coils and &&7LV&&r Voltage), the &&dMulti Smelter&&r smelts 32 items in just 12 seconds - equivalent to &&926.7 Furnaces&&r, or 3.3 Steam Ovens!",
+      "<br/>",
+      "If that wasn't already enough to convince you, standard &&aoverclocks&&r can be applied with sufficient voltage.",
+      "<br/>",
+      "And even better - higher tier &&3Coils&&r increase the amount of items it can smelt in &&dparallel&&r!"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:multi_smelter"
+    },
+    "subtitle": {
+      "text": "Possibly the most powerful furnace you've seen"
+    },
+    "groups": {
+      "§bMV§r - Medium Voltage": {
+        "position": [
+          180,
+          12
+        ]
+      }
+    }
+  }
+}

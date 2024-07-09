@@ -1,0 +1,39 @@
+{
+  "settings": {},
+  "dependencies": [
+    "2F9D9AAB27E6534D"
+  ],
+  "tasks": {
+    "3680AE17E8BA3E4E": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Iridium, Osmium, and EV",
+    "description": [
+      "<h2>Hold your fire just for now</h2>",
+      "<hr/>",
+      "<task task=\"3680AE17E8BA3E4E\" quest=\"28ED66F775111A17\"/>",
+      "<hr/>",
+      "A quick note on &&aIridium&&r and &&aOsmium&&r. ",
+      "<br/>",
+      "You can technically obtain these materials now, but you should wait until you reach &&9IV&&r tier. Producing these materials takes a lot of power, and you won't be able to smelt them into ingots until &&9IV&&r anyway."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:iridium_dust"
+    },
+    "subtitle": {
+      "text": "Hold your fire just for now"
+    },
+    "groups": {
+      "§5EV§r - Extreme Voltage": {
+        "position": [
+          216,
+          36
+        ]
+      }
+    }
+  }
+}

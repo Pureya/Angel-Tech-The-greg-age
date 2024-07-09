@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "2F1CCFEBAB71B1F3"
+  ],
+  "tasks": {
+    "144F4F8EF61BEEA5": {
+      "type": "heracles:item",
+      "item": "gtceu:aluminium_dust"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Aluminium Dust",
+    "description": [
+      "<h2>Aluminium, not \"Aluminum\"</h2>",
+      "<hr/>",
+      "<task task=\"144F4F8EF61BEEA5\" quest=\"45B71324028F6E68\"/>",
+      "<hr/>",
+      "As mentioned in the previous quest, electrolyse the &&1Sapphire Dust&&r to get your &&bAluminium Dust&&r.",
+      "<br/>",
+      "Now all you need is an EBF! If you haven't started to work towards one, move to the right on this quest page and you'll end up there."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:aluminium_dust"
+    },
+    "subtitle": {
+      "text": "Aluminium, not \"Aluminum\""
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          -108,
+          216
+        ]
+      }
+    }
+  }
+}

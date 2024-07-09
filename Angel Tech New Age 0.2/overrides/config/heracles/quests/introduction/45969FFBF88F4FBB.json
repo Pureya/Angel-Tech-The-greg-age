@@ -1,0 +1,78 @@
+{
+  "settings": {},
+  "dependencies": [
+    "2001CB4968D3E0A2"
+  ],
+  "tasks": {
+    "616556ECE4DB6103": {
+      "title": "32 Copper or Tin",
+      "type": "heracles:item",
+      "amount": 32,
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "minecraft:copper_ingot"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:tin_ingot"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "2C28FA1A5275D24E": {
+      "type": "heracles:selectable",
+      "rewards": {
+        "2C28FA1A5275D24E_0": {
+          "type": "heracles:item",
+          "item": {
+            "id": "minecraft:copper_ingot",
+            "count": 32
+          }
+        },
+        "2C28FA1A5275D24E_1": {
+          "type": "heracles:item",
+          "item": {
+            "id": "gtceu:tin_ingot",
+            "count": 32
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "title": "Onwards to the Age of Bronze!",
+    "description": [
+      "<h2>Gather more resources!</h2>",
+      "<hr/>",
+      "<task task=\"616556ECE4DB6103\" quest=\"45969FFBF88F4FBB\"/>",
+      "<hr/>",
+      "More resources are always nice. You're getting close to entering the &&6age of Steam&&r - Copper and Tin are required in many &&6Steam Age&&r machines, so check the ore tab to find out what veins they can be found in, and get mining!",
+      "<br/>",
+      "If the different ore names are &&bconfusing&&r, you can tell which elements an ore holds at a glance by reading the &&dmolecular formula&&r in its tooltip. Copper is &&oCu&&r, Tin is &&oSn&&r, Iron is &&oFe&&r, and you can consult a &&3periodic table&&r for the rest. It's time to brush up on your chemistry - you'll need it for &&llater&&r.",
+      "<br/>",
+      "This quest can be completed with &&9either metal&&r, so you can claim the metal you're missinng as the reward. Be sure to find a source of both soon, as a &&a&&ocertain&&r&&a Copper-Tin alloy&&r will be needed to get through the &&6Steam Age&&r.",
+      "<hr/>",
+      "<reward reward=\"2C28FA1A5275D24E\" quest=\"45969FFBF88F4FBB\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:copper_ingot"
+    },
+    "subtitle": {
+      "text": "Gather more resources!"
+    },
+    "groups": {
+      "Introduction": {
+        "position": [
+          120,
+          -48
+        ]
+      }
+    }
+  }
+}

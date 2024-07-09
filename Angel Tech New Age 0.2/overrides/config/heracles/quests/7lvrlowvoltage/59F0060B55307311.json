@@ -1,0 +1,44 @@
+{
+  "settings": {},
+  "dependencies": [
+    "32EA7E81885C8E87",
+    "10ECB471A77F5136"
+  ],
+  "tasks": {
+    "7C04F3247B0C0BCB": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Programmed Circuits",
+    "description": [
+      "<h2>Don't want to spend your circuits to select recipes?</h2>",
+      "<hr/>",
+      "<task task=\"7C04F3247B0C0BCB\" quest=\"59F0060B55307311\"/>",
+      "<hr/>",
+      "By clicking the &&6Circuit Configuration Slot&&r in machines, you can create a &&bghost Programmed Circuit&&r. ",
+      "<br/>",
+      "This is a fake circuit that allows you to select a given configuration for recipes! There's no need to spend your circuits crafting &&bProgrammed Circuits&&r anymore.",
+      "<br/>",
+      "&&dElectric Machines&&r and &&dItem Input Buses&&r will have a Ghost Circuit Slot.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o This feature is originally from GTNH."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:programmed_circuit"
+    },
+    "subtitle": {
+      "text": "Don't want to spend your circuits to select recipes?"
+    },
+    "groups": {
+      "§7LV§r - Low Voltage": {
+        "position": [
+          106,
+          63
+        ]
+      }
+    }
+  }
+}

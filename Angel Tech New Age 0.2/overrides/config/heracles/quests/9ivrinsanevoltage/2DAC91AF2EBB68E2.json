@@ -1,0 +1,57 @@
+{
+  "settings": {},
+  "dependencies": [
+    "5E6BA54E8A5BEBDE",
+    "14D277A164202FF8",
+    "6B128610C7D2825D"
+  ],
+  "tasks": {
+    "515EDFE316170EEA": {
+      "type": "heracles:item",
+      "item": "gtceu:iv_processing_array"
+    },
+    "63D543FE6880FBCC": {
+      "title": "I won't make a PA, promise!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Processing Array",
+    "description": [
+      "<h2>The PA did so little but so much</h2>",
+      "<hr/>",
+      "<task task=\"515EDFE316170EEA\" quest=\"2DAC91AF2EBB68E2\"/>",
+      "<task task=\"63D543FE6880FBCC\" quest=\"2DAC91AF2EBB68E2\"/>",
+      "<hr/>",
+      "The &&3Processing Array&&r was a powerful &&6automation tool&&r... one that'll &&4end up deprecated&&r in future release, so don't bother making one! It combined several single block machines into one single multiblock. Use the Gregicality Multiblocks machines instead!",
+      "<br/>",
+      "You would have started off by placing up to &&d16&&r Machines into the &&3Machine Access Interface&&r.",
+      "<br/>",
+      "The &&3PA&&r would then &&asimulate&&r all the machines you put inside, as if they were running at the same time.",
+      "<br/>",
+      "This means recipes could now be performed up to &&d16&&r at a time - this is true &&4parallelisation&&r!",
+      "<br/>",
+      "&&6This quest still unlocks a new tutorial on parallel techniques in the &&lTips and Tricks&&r&&6 tab - check it out to learn more!&&r",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o In GregTech 5, the Data Orb was used in the Matter Replicator to store the \"data\" of the material you wanted to replicate. There is no replication here - the Orb is now a mere crafting component.",
+      "<br/>",
+      "&&oAdditionally, GregTech 5's PA and other Multiblocks acted as a Cleanroom. There's no such thing here!"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:iv_processing_array"
+    },
+    "subtitle": {
+      "text": "The PA did so little but so much"
+    },
+    "groups": {
+      "§9IV§r - Insane Voltage": {
+        "position": [
+          192,
+          156
+        ]
+      }
+    }
+  }
+}

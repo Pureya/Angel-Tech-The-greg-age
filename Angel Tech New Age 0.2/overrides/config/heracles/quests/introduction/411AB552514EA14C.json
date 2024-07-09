@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "dependencies": [
+    "2001CB4968D3E0A2"
+  ],
+  "tasks": {
+    "30D40010C8E6E115": {
+      "type": "heracles:item",
+      "item": "craftingstation:crafting_station"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Crafting Station",
+    "description": [
+      "<h2>No, Tinkers' is not in this modpack</h2>",
+      "<hr/>",
+      "<task task=\"30D40010C8E6E115\" quest=\"411AB552514EA14C\"/>",
+      "<hr/>",
+      "Crafting can quickly get &&etiresome&&r. How about making use of your &&2new saw&&r to make this Crafting table?",
+      "<br/>",
+      "It allows you to craft from adjacent inventories, making classic &&aGregTech&&r microcrafting so much less &&4tedious&&r.",
+      "<br/>",
+      "Saw the table again for a lower-profile Slab version."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "craftingstation:crafting_station"
+    },
+    "subtitle": {
+      "text": "No, Tinkers' is not in this modpack"
+    },
+    "groups": {
+      "Introduction": {
+        "position": [
+          120,
+          -144
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "settings": {},
+  "dependencies": [
+    "0EFEE489906256AA"
+  ],
+  "tasks": {
+    "7046AD026C55153C": {
+      "type": "heracles:item",
+      "amount": 15,
+      "item": "gtceu:bauxite_dust"
+    },
+    "5593109F3592A432": {
+      "type": "heracles:item",
+      "item": "gtceu:rutile_dust"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Almost Titanium",
+    "description": [
+      "<h2>...means it WASN'T Titanium!</h2>",
+      "<hr/>",
+      "<task task=\"7046AD026C55153C\" quest=\"59DFC4DA7D29C315\"/>",
+      "<task task=\"5593109F3592A432\" quest=\"59DFC4DA7D29C315\"/>",
+      "<hr/>",
+      "Titanium requires a slightly more &&binvolved&&r process than the previous materials to process. To get started, you'll need &&aRutile&&r, which can be obtained by processing &&aBauxite&&r.",
+      "<br/>",
+      "Once you've gotten enough &&5Rutile&&r, your journey to &&6Titanium&&r continues in the next quest. There's no need to rush things.",
+      "{@pagebreak}",
+      "You may have already noticed that Bauxite is also an &&6excellent source of Aluminium&&r.",
+      "<br/>",
+      "Visiting &&dThe End&&r allows you to access a richer Bauxite vein, as well as &&9Ilmenite&&r - an even better source of Rutile.",
+      "<br/>",
+      "&&9Tip:&&r Ore processing for &&aBauxite&&r is ridiculously good! Including the &&3Thermal Centrifuge&&r step easily &&6triples&&r your &&aRutile&&r yield."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:rutile_dust"
+    },
+    "subtitle": {
+      "text": "...means it WASN'T Titanium!"
+    },
+    "groups": {
+      "§6HV§r - High Voltage": {
+        "position": [
+          180,
+          -96
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "dependencies": [
+    "10FB27DD3C7BEC2F"
+  ],
+  "tasks": {
+    "032C24CBA8687E72": {
+      "type": "heracles:item",
+      "item": "ae2:blank_pattern"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Patterns",
+    "description": [
+      "<h2>Autocrafting at last!</h2>",
+      "<hr/>",
+      "<task task=\"032C24CBA8687E72\" quest=\"1C036BCB2C488CFF\"/>",
+      "<hr/>",
+      "&&aPatterns&&r are used for AE2 autocrafting. Using &&aPolyvinyl Chloride&&r increases the yield by &&64 times&&r, and higher-tier plastics have even greater yields.",
+      "<br/>",
+      "&&3Molecular Assemblers&&r aren't available for a little while more, but you can still automate machines with &&9ME Interfaces&&r.",
+      "<br/>",
+      "A sub-note for autocrafting... whilst it's possible to perform chemical chains on-demand with AE2, doing so can build some bad habits that'll come back around to bite you in higher tiers. We urge you to passive things wherever you can."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "ae2:blank_pattern"
+    },
+    "subtitle": {
+      "text": "Autocrafting at last!"
+    },
+    "groups": {
+      "§bMV§r - Medium Voltage": {
+        "position": [
+          180,
+          -132
+        ]
+      }
+    }
+  }
+}

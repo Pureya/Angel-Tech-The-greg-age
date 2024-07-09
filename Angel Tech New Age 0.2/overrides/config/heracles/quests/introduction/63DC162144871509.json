@@ -1,0 +1,56 @@
+{
+  "settings": {},
+  "tasks": {
+    "3E3D67B53234AD1A": {
+      "title": "Whoah, these sound cool.",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "What Else Can I Play?",
+    "description": [
+      "<task task=\"3E3D67B53234AD1A\" quest=\"63DC162144871509\"/>",
+      "<hr/>",
+      "Has this pack made you want to try some other &&bGregTech Modern&&r modpacks?",
+      "<br/>",
+      "Here are some &&acurated&&r recommendations!",
+      "{@pagebreak}",
+      "&&lCosmic Frontiers",
+      "- &&7Ghostipedia et al.",
+      "<br/>",
+      "&&dCosmic Frontiers&&r is a 1.20.1 modpack centered around &&bdifficult gameplay&&r and the interactions of many mods alongside GTCEu Modern. You'll explore the stars above and travel to the depths below, all whilst managing your &&esanity and needs&&r against the &&ahorrors&&r trapped in your universe!",
+      "<br/>",
+      "In its current state, the pack is considered to be in &&2early alpha&&r. However, you can still progress through base CEu to &&3UHV&&r.",
+      "{@pagebreak}",
+      "&&lAll the Mods: Gravitas 2",
+      "- &&7ATMTeam",
+      "<br/>",
+      "Starting from &&6primitive stone age technology&&r, hand-knapping your tools and foraging for food, you'll need to progress through the ages covering many &&bclassic and new&&r mods. This is seamlessly complemented by mods such as TerraFirmaCraft, Create New Age, Stargate Journey and &&8(obviously)&&r GregTech.",
+      "<br/>",
+      "You'll find yourself transitioning from a &&2primitive beginning&&r, smashing rocks together, to smashing atoms together, soon &&dpowering your voyages&&r to the stars and beyond!",
+      "{@pagebreak}",
+      "&&lStar Technology",
+      "- &&7trulyno",
+      "<br/>",
+      "&&6Star Technology&&r is a 1.19.2 GregTech &&dskyblock modpack&&r where you play as a scientist stranded in an &&balternate dimension&&r after a dimensional travel experiment &&4catastrophically fails&&r.",
+      "<br/>",
+      "Progression in this pack will take you above and beyond &&3UHV&&r, with numerous unique &&aStargates&&r to craft, and even a remixed &&o\"Gregified\"&&r Mystical Agriculture.",
+      "<br/>",
+      "It's important to note that the pack is still under &&eheavy development&&r, but you should be able to achieve the &&o\"Classic Stargate\"&&r as of version BETA 1!"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "groups": {
+      "Introduction": {
+        "position": [
+          -72,
+          0
+        ]
+      }
+    }
+  }
+}

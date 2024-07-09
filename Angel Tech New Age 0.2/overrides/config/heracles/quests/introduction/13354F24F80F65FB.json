@@ -1,0 +1,523 @@
+{
+  "settings": {},
+  "dependencies": [
+    "0EAF2C5B5EB755C5"
+  ],
+  "tasks": {
+    "3880A08A72884627": {
+      "title": "Grab any Lumber Axe!",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:aluminium_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 767,
+                "ToolSpeed": 8
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:vanadium_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 1535,
+                "ToolSpeed": 5
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:naquadah_alloy_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "RelocateMinedBlocks": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 5,
+                "MaxDamage": 3071,
+                "ToolSpeed": 42
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:flint_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 63,
+                "ToolSpeed": 3.5
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:red_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 2559,
+                "ToolSpeed": 9
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:blue_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 1023,
+                "ToolSpeed": 17
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:rose_gold_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "Enchantments": [
+                {
+                  "id": "minecraft:fortune",
+                  "lvl": 2
+                }
+              ],
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 767,
+                "ToolSpeed": 14
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:hsse_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 4,
+                "MaxDamage": 3071,
+                "ToolSpeed": 7
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:iron_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 255,
+                "ToolSpeed": 4
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:titanium_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 1535,
+                "ToolSpeed": 10
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:neutronium_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "RelocateMinedBlocks": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 6,
+                "MaxDamage": 65534,
+                "ToolSpeed": 182
+              },
+              "HideFlags": 2,
+              "Unbreakable": 1
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:duranium_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "RelocateMinedBlocks": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 5,
+                "MaxDamage": 8191,
+                "ToolSpeed": 16
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:bronze_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 191,
+                "ToolSpeed": 5
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:invar_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "Enchantments": [
+                {
+                  "id": "minecraft:efficiency",
+                  "lvl": 1
+                },
+                {
+                  "id": "minecraft:bane_of_arthropods",
+                  "lvl": 3
+                }
+              ],
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 383,
+                "ToolSpeed": 6
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:sterling_silver_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "Enchantments": [
+                {
+                  "id": "minecraft:smite",
+                  "lvl": 3
+                }
+              ],
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 767,
+                "ToolSpeed": 5
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:cobalt_brass_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 1023,
+                "ToolSpeed": 4.5
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:tungsten_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 4,
+                "MaxDamage": 2047,
+                "ToolSpeed": 11
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:damascus_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "Enchantments": [
+                {
+                  "id": "minecraft:fortune",
+                  "lvl": 3
+                }
+              ],
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 1023,
+                "ToolSpeed": 8
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:tungsten_carbide_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 4,
+                "MaxDamage": 1023,
+                "ToolSpeed": 62
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:wrought_iron_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 2,
+                "MaxDamage": 383,
+                "ToolSpeed": 4
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:ultimet_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 4,
+                "MaxDamage": 2047,
+                "ToolSpeed": 12
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 511,
+                "ToolSpeed": 7
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:stainless_steel_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 1023,
+                "ToolSpeed": 9
+              },
+              "HideFlags": 2
+            }
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:diamond_axe",
+            "tag": {
+              "DisallowContainerItem": 0,
+              "GT.Behaviours": {
+                "DisableShields": 1,
+                "TreeFelling": 1
+              },
+              "GT.Tool": {
+                "Damage": 0,
+                "HarvestLevel": 3,
+                "MaxDamage": 767,
+                "ToolSpeed": 8
+              },
+              "HideFlags": 2
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "60E07F9D0763E8E1": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:spruce_sapling",
+        "count": 8
+      }
+    }
+  },
+  "display": {
+    "title": "Lumbering On",
+    "description": [
+      "<h2>Who needs Veinminer?</h2>",
+      "<hr/>",
+      "<task task=\"3880A08A72884627\" quest=\"13354F24F80F65FB\"/>",
+      "<hr/>",
+      "Were you aware that &&aGregTech&&r comes with its own set of tools? If not, you'll be pleasantly surprised to hear that they &&6&&lsurpass&&r their vanilla equivalents.",
+      "<br/>",
+      "Let's use the GregTech Axe as an example. If you use one to mine a log in a tree, it'll fell the &&2entire tree&&r for you. Timber!",
+      "<br/>",
+      "Constant \"lumberjacking\" will eat through your Axe's &&9durability&&r in seconds, so you may want to make your Axe out of a &&estronger material&&r such as &&bDiamond&&r. Just be careful you don't make a vanilla Diamond Axe!",
+      "<br/>",
+      "As a reward, take these &&2Spruce saplings&&r and use them to make some big trees. You'll need to do a lot of smelting in the near future, and planks will tide you over as an &&deffective&&r fuel source!",
+      "<hr/>",
+      "<reward reward=\"60E07F9D0763E8E1\" quest=\"13354F24F80F65FB\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:steel_axe"
+    },
+    "subtitle": {
+      "text": "Who needs Veinminer?"
+    },
+    "groups": {
+      "Introduction": {
+        "position": [
+          -72,
+          -144
+        ]
+      }
+    }
+  }
+}

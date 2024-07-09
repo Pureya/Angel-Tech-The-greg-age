@@ -1,0 +1,52 @@
+{
+  "settings": {},
+  "dependencies": [
+    "40DE888E6025C646"
+  ],
+  "tasks": {
+    "1D0F8D4470DFFD19": {
+      "type": "heracles:item",
+      "item": "hangglider:hang_glider"
+    }
+  },
+  "rewards": {
+    "1A39F42877915C72": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:leather",
+        "count": 8
+      }
+    }
+  },
+  "display": {
+    "title": "Is it a Phantom? Is it an Elytra?",
+    "description": [
+      "<h2>No, it's Steve with a glider!</h2>",
+      "<hr/>",
+      "<task task=\"1D0F8D4470DFFD19\" quest=\"0C301014EC4D17B8\"/>",
+      "<hr/>",
+      "Now that you have Steel, you can make a Hang Glider. This might be a good item to grab before you hit up the &&cNether&&r.",
+      "<br/>",
+      "If you don't have enough Leather yet, make a &&9Butchering Knife&&r and employ its inherent Looting III to hunt some cows.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o The Hang Glider originally came from a mod known as OpenBlocks. As its utility was too great to be left on earlier versions, it was ported all the way up to modern versions.",
+      "<hr/>",
+      "<reward reward=\"1A39F42877915C72\" quest=\"0C301014EC4D17B8\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "hangglider:hang_glider"
+    },
+    "subtitle": {
+      "text": "No, it's Steve with a glider!"
+    },
+    "groups": {
+      "Steam Age": {
+        "position": [
+          36,
+          -88
+        ]
+      }
+    }
+  }
+}

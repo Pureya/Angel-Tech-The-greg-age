@@ -1,0 +1,69 @@
+{
+  "settings": {},
+  "dependencies": [
+    "1FFD2242B94A7378"
+  ],
+  "tasks": {
+    "159D19181DC4DE59": {
+      "title": "Potin Pipes!",
+      "type": "heracles:item",
+      "item": "itemfilters:or",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "gtceu:potin_small_fluid_pipe"
+          },
+          {
+            "Count": 1,
+            "id": "gtceu:potin_normal_fluid_pipe"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "18C834E9EC619985": {
+      "type": "heracles:item",
+      "item": {
+        "id": "gtceu:potin_plate",
+        "count": 6
+      }
+    }
+  },
+  "display": {
+    "title": "Potin Seller...",
+    "description": [
+      "<h2>...I'm going into battle, and I need only your finest Potin.</h2>",
+      "<hr/>",
+      "<task task=\"159D19181DC4DE59\" quest=\"3C70B0717E9377A4\"/>",
+      "<hr/>",
+      "&&dPotin Fluid Pipes&&r have a &&avery high throughput&&r for the material tier and cost. You may want to look into making some of these to aid with fluid logistics.",
+      "<br/>",
+      "To get &&dPotin&&r, you should start by crafting its &&eDust&&r form.",
+      "<br/>",
+      "This quest calls for either the small or normal pipe. Get either size to complete it.",
+      "{@pagebreak}",
+      "&&l&&3Lore:&&r&&o &&dPotin Fluid Pipes&&r were originally created in &&9GT++&&r, and were a huge power spike for players in a little pack called &&4GT:NH&&r. We wanted to spread some of that joy.",
+      "<br/>",
+      "In the real world, &&dPotin&&r is an alloy used in coins, not pipes. GTCEu just gets more unrealistic by the day...",
+      "<hr/>",
+      "<reward reward=\"18C834E9EC619985\" quest=\"3C70B0717E9377A4\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:potin_normal_fluid_pipe"
+    },
+    "subtitle": {
+      "text": "...I'm going into battle, and I need only your finest Potin."
+    },
+    "groups": {
+      "Steam Age": {
+        "position": [
+          -36,
+          60
+        ]
+      }
+    }
+  }
+}

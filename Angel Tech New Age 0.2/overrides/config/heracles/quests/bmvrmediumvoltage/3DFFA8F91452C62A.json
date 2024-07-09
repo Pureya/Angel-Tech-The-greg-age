@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "6E9E15DA847DD0A1"
+  ],
+  "tasks": {
+    "6690451CCAB62CA1": {
+      "type": "heracles:item",
+      "item": "gtceu:inductor"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Inductors",
+    "description": [
+      "<h2>Z = jwL</h2>",
+      "<hr/>",
+      "<task task=\"6690451CCAB62CA1\" quest=\"3DFFA8F91452C62A\"/>",
+      "<hr/>",
+      "A Circuit Component that you can now make thanks to the &&3MV Assembler&&r.",
+      "<br/>",
+      "If you want the cheapest recipe, &&aNickel-Zinc Ferrite&&r is the way to go."
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "gtceu:inductor"
+    },
+    "subtitle": {
+      "text": "Z = jwL"
+    },
+    "groups": {
+      "§bMV§r - Medium Voltage": {
+        "position": [
+          288,
+          12
+        ]
+      }
+    }
+  }
+}
