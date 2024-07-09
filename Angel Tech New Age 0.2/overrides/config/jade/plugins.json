@@ -53,9 +53,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "pipez": {
-    "pipe": true
-  },
   "gtceu": {
     "auto_output_info": true,
     "workable_provider": true,
@@ -71,6 +68,9 @@
     "hazard_cleaner_provider": true,
     "cable_info": true,
     "parallel_info": true
+  },
+  "appliedcooking": {
+    "kitchen_station": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -89,6 +89,13 @@
   },
   "gravestone": {
     "grave": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "ae2": {
     "part_icon": true,

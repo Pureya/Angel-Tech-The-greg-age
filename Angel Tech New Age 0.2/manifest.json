@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Angel Tech New Age",
-  "version": "0.2b",
+  "version": "0.2c",
   "author": "GreddodeRichards",
   "files": [
     {
@@ -545,16 +545,6 @@
       "required": true
     },
     {
-      "projectID": 949719,
-      "fileID": 5282402,
-      "required": true
-    },
-    {
-      "projectID": 943774,
-      "fileID": 5395590,
-      "required": true
-    },
-    {
       "projectID": 870903,
       "fileID": 4579551,
       "required": true
@@ -855,11 +845,6 @@
       "required": true
     },
     {
-      "projectID": 574622,
-      "fileID": 5512501,
-      "required": true
-    },
-    {
       "projectID": 585406,
       "fileID": 5457028,
       "required": true
@@ -1035,8 +1020,73 @@
       "required": true
     },
     {
-      "projectID": 227874,
-      "fileID": 4861183,
+      "projectID": 551736,
+      "fileID": 4731947,
+      "required": true
+    },
+    {
+      "projectID": 448222,
+      "fileID": 4859612,
+      "required": true
+    },
+    {
+      "projectID": 961856,
+      "fileID": 5107131,
+      "required": true
+    },
+    {
+      "projectID": 459929,
+      "fileID": 5217955,
+      "required": true
+    },
+    {
+      "projectID": 231484,
+      "fileID": 5396013,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4966125,
+      "required": true
+    },
+    {
+      "projectID": 709936,
+      "fileID": 4706669,
+      "required": true
+    },
+    {
+      "projectID": 689579,
+      "fileID": 4708347,
+      "required": true
+    },
+    {
+      "projectID": 1051270,
+      "fileID": 5479598,
+      "required": true
+    },
+    {
+      "projectID": 1053237,
+      "fileID": 5487144,
+      "required": true
+    },
+    {
+      "projectID": 1055628,
+      "fileID": 5494167,
+      "required": true
+    },
+    {
+      "projectID": 1057511,
+      "fileID": 5503238,
+      "required": true
+    },
+    {
+      "projectID": 1058760,
+      "fileID": 5508963,
+      "required": true
+    },
+    {
+      "projectID": 1052221,
+      "fileID": 5482671,
       "required": true
     }
   ],
